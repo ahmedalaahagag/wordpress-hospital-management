@@ -1,0 +1,75 @@
+
+Add new session   at 10:Dec:2015 13:28:48 by ahmedalaahagag
+Add new session   at 10:Dec:2015 13:29:56 by ahmedalaahagag
+Delete session   at 10:Dec:2015 13:30:07 by ahmedalaahagag
+Delete session   at 10:Dec:2015 13:30:11 by ahmedalaahagag
+Delete session   at 10:Dec:2015 13:31:15 by ahmedalaahagag
+Delete session   at 10:Dec:2015 13:33:27 by ahmedalaahagag
+Add new session   at 13:Dec:2015 14:42:45 by ahmedalaahagag
+Add new duration   at 13:Dec:2015 15:03:22 by ahmedalaahagag
+Add new duration   at 13:Dec:2015 15:03:22 by ahmedalaahagag
+Delete session   at 13:Dec:2015 15:05:16 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:06:04 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:06:04 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:14:30 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:14:30 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:14:30 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:15:18 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:15:18 by ahmedalaahagag
+Update duration  at 13:Dec:2015 15:15:18 by ahmedalaahagag
+Delete session   at 13:Dec:2015 15:15:30 by ahmedalaahagag
+Add new session   at 13:Dec:2015 15:32:59 by ahmedalaahagag
+Add new session   at 13:Dec:2015 15:34:15 by ahmedalaahagag
+Delete session   at 13:Dec:2015 15:34:28 by ahmedalaahagag
+Update session  at 13:Dec:2015 15:34:41 by ahmedalaahagag
+Add new appointment  at 15:Dec:2015 09:22:17 by ahmedalaahagag
+Add new appointment  at 15:Dec:2015 09:22:29 by ahmedalaahagag
+Add new duration   at 20:Dec:2015 16:06:39 by doctor doctor
+Add new duration   at 20:Dec:2015 16:06:39 by doctor doctor
+Add new duration   at 20:Dec:2015 16:06:39 by doctor doctor
+Add new duration   at 20:Dec:2015 16:06:39 by doctor doctor
+Delete session   at 20:Dec:2015 16:06:43 by doctor doctor
+Delete session   at 20:Dec:2015 16:06:45 by doctor doctor
+Update duration  at 20:Dec:2015 16:39:40 by ahmedalaahagag
+Add new user   at 12:Jan:2016 15:07:52 by doctor doctor
+Add new user   at 12:Jan:2016 15:08:20 by doctor doctor
+Add new user   at 12:Jan:2016 15:08:48 by doctor doctor
+Add new user   at 12:Jan:2016 15:09:51 by doctor doctor
+Add new user   at 12:Jan:2016 15:10:08 by doctor doctor
+Add new user   at 12:Jan:2016 15:10:42 by doctor doctor
+Add new user   at 12:Jan:2016 15:10:48 by doctor doctor
+Add new user   at 12:Jan:2016 15:12:12 by doctor doctor
+Add new user   at 12:Jan:2016 15:12:40 by doctor doctor
+Add new user   at 12:Jan:2016 15:16:14 by doctor doctor
+Add new user   at 12:Jan:2016 15:19:51 by doctor doctor
+Add new user   at 12:Jan:2016 15:45:31 by doctor doctor
+Add new user   at 12:Jan:2016 15:46:05 by doctor doctor
+Add new user   at 12:Jan:2016 15:47:28 by doctor doctor
+Add new user   at 12:Jan:2016 15:47:36 by doctor doctor
+Add new appointment  at 12:Jan:2016 16:05:30 by doctor doctor
+Update appointment  at 12:Jan:2016 16:06:15 by doctor doctor
+Add new appointment  at 12:Jan:2016 16:11:17 by doctor doctor
+Add new user   at 12:Jan:2016 19:32:06 by doctor doctor
+Add new user   at 12:Jan:2016 19:32:10 by doctor doctor
+Add new user   at 12:Jan:2016 19:32:57 by doctor doctor
+Add new user   at 12:Jan:2016 19:33:01 by doctor doctor
+Add new user   at 12:Jan:2016 19:33:40 by doctor doctor
+Add new user   at 12:Jan:2016 19:34:34 by doctor doctor
+Add new user   at 12:Jan:2016 19:34:49 by doctor doctor
+Add new user   at 12:Jan:2016 19:35:40 by doctor doctor
+Add new user   at 12:Jan:2016 19:37:55 by doctor doctor
+Add new user   at 12:Jan:2016 19:43:01 by doctor doctor
+Add new user   at 12:Jan:2016 19:46:24 by doctor doctor
+Add new user   at 12:Jan:2016 19:51:32 by doctor doctor
+Add new user   at 12:Jan:2016 21:09:45 by doctor doctor
+Add new user   at 12:Jan:2016 21:27:38 by doctor doctor
+Add new user   at 12:Jan:2016 21:49:51 by doctor doctor
+Add new user   at 12:Jan:2016 21:56:12 by doctor doctor
+Add new user   at 12:Jan:2016 21:56:25 by doctor doctor
+Add new user   at 12:Jan:2016 22:03:07 by doctor doctor
+Add new user   at 12:Jan:2016 22:03:24 by doctor doctor
+Add new user   at 12:Jan:2016 22:19:10 by doctor doctor
+Add new user   at 13:Jan:2016 11:31:49 by doctor doctor
+Add new user   at 13:Jan:2016 11:48:20 by doctor doctor
+Add new session   at 13:Jan:2016 15:51:00 by doctor doctor
+Add new duration   at 13:Jan:2016 15:51:22 by doctor doctor

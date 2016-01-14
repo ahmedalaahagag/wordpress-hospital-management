@@ -1,0 +1,3160 @@
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Hospital Management System  v 1.0\n"
+"POT-Creation-Date: 2015-07-06 14:28:36+00:00\n"
+"PO-Revision-Date: 2015-07-07 14:37+0530\n"
+"Last-Translator: Dasinfomedia <sale@mojoomla.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language-Team: \n"
+
+#: settings.php:48
+msgid "Hospital Management System"
+msgstr ""
+
+#: settings.php:173
+msgid "Hospital Management Login Page"
+msgstr ""
+
+#: fronted_template.php:143
+msgid "My Profile"
+msgstr ""
+
+#: fronted_template.php:145
+msgid "Log Out"
+msgstr ""
+
+#: fronted_template.php:167
+#: hmgt_function.php:102
+#: admin/admin.php:17
+msgid "Dashboard"
+msgstr ""
+
+#: fronted_template.php:207
+#: hmgt_function.php:161
+#: settings.php:40
+#: admin/includes/dasboard.php:89
+#: admin/includes/ambulance/index.php:158
+#: admin/includes/ambulance/index.php:169
+#: admin/includes/ambulance/add-ambulance-req.php:64
+#: admin/includes/appointment/index.php:109
+#: admin/includes/appointment/index.php:118
+#: admin/includes/bed-allotment/index.php:108
+#: admin/includes/bed-allotment/index.php:119
+#: admin/includes/bed-allotment/bed-allotment.php:46
+#: admin/includes/diagnosis/add_diagnosis.php:52
+#: admin/includes/event/add-event.php:74
+#: admin/includes/event/add-event.php:85
+#: admin/includes/invoice/index.php:115
+#: admin/includes/invoice/index.php:125
+#: admin/includes/invoice/add_income.php:49
+#: admin/includes/invoice/add_invoice.php:58
+#: admin/includes/message/composemail.php:33
+#: admin/includes/OT/index.php:119
+#: admin/includes/OT/index.php:129
+#: admin/includes/OT/add-opration.php:43
+#: admin/includes/prescription/index.php:123
+#: admin/includes/prescription/index.php:131
+#: admin/includes/prescription/add_prescription.php:42
+#: template/ambulance.php:151
+#: template/ambulance.php:162
+#: template/appointment.php:113
+#: template/appointment.php:123
+#: template/ambulance.php:254
+#: template/bedallotment.php:104
+#: template/bedallotment.php:114
+#: template/bedallotment.php:206
+#: template/diagnosis.php:187
+#: template/operation.php:117
+#: template/operation.php:127
+#: template/operation.php:197
+#: template/prescription.php:116
+#: template/prescription.php:124
+#: template/prescription.php:215
+#: template/invoice.php:238
+#: template/invoice.php:252
+#: template/invoice.php:323
+#: template/invoice.php:509
+#: template/message/composemail.php:33
+#: admin/includes/prescription/index.php:127
+msgid "Patient"
+msgstr ""
+
+#: hmgt_function.php:162
+#: admin/admin.php:20
+msgid "Outpatient"
+msgstr ""
+
+#: fronted_template.php:220
+#: hmgt_function.php:160
+#: settings.php:35
+#: admin/includes/dasboard.php:102
+#: admin/includes/appointment/index.php:110
+#: admin/includes/appointment/index.php:119
+#: admin/includes/event/add-event.php:75
+#: admin/includes/event/add-event.php:86
+#: admin/includes/message/composemail.php:34
+#: admin/admin.php:18
+#: template/appointment.php:114
+#: template/appointment.php:124
+#: template/message/composemail.php:34
+msgid "Doctor"
+msgstr ""
+
+#: fronted_template.php:233
+#: hmgt_function.php:163
+#: settings.php:36
+#: admin/includes/dasboard.php:116
+#: admin/includes/bed-allotment/index.php:109
+#: admin/includes/bed-allotment/index.php:120
+#: admin/includes/message/composemail.php:35
+#: admin/admin.php:21
+#: template/message/composemail.php:47
+msgid "Nurse"
+msgstr ""
+
+#: fronted_template.php:247
+#: hmgt_function.php:164
+#: settings.php:14
+#: admin/includes/dasboard.php:133
+#: admin/includes/event/add-event.php:76
+#: admin/includes/event/add-event.php:87
+#: admin/includes/message/composemail.php:36
+#: admin/admin.php:22
+msgid "Support Staff"
+msgstr ""
+
+#: fronted_template.php:264
+#: hmgt_function.php:178
+#: settings.php:291
+#: admin/includes/dasboard.php:151
+#: admin/admin.php:40
+msgid "Message"
+msgstr ""
+
+#: fronted_template.php:278
+#: admin/includes/dasboard.php:165
+msgid "Setting"
+msgstr ""
+
+#: fronted_template.php:292
+#: hmgt_function.php:175
+#: admin/includes/dasboard.php:177
+#: admin/admin.php:37
+msgid "Appointment"
+msgstr ""
+
+#: fronted_template.php:308
+#: hmgt_function.php:170
+#: admin/includes/dasboard.php:190
+#: admin/admin.php:29
+msgid "Prescription"
+msgstr ""
+
+#: fronted_template.php:326
+#: hmgt_function.php:171
+#: admin/includes/dasboard.php:205
+msgid "Assign Bed/Nurse"
+msgstr ""
+
+#: fronted_template.php:344
+#: hmgt_function.php:169
+#: admin/includes/dasboard.php:220
+#: admin/includes/prescription/index.php:124
+#: admin/includes/prescription/index.php:132
+#: admin/includes/prescription/add_prescription.php:66
+#: admin/admin.php:28
+#: template/prescription.php:117
+#: template/prescription.php:125
+#: template/prescription.php:239
+msgid "Treatment"
+msgstr ""
+
+#: fronted_template.php:369
+#: admin/includes/dasboard.php:243
+msgid "Events/Notice"
+msgstr ""
+
+#: fronted_template.php:388
+#: admin/includes/dasboard.php:258
+#: admin/includes/diagnosis/index.php:123
+#: admin/includes/diagnosis/index.php:133
+#: admin/admin.php:43
+#: template/diagnosis.php:107
+#: template/diagnosis.php:117
+msgid "Report"
+msgstr ""
+
+#: fronted_template.php:403
+#: hmgt_function.php:165
+#: settings.php:37
+#: admin/includes/dasboard.php:272
+#: admin/includes/event/add-event.php:77
+#: admin/includes/event/add-event.php:88
+#: admin/includes/message/composemail.php:37
+#: admin/admin.php:23
+#: template/message/composemail.php:47
+msgid "Pharmacist"
+msgstr ""
+
+#: fronted_template.php:418
+#: hmgt_function.php:168
+#: admin/includes/dasboard.php:289
+#: admin/includes/outpatient/add_out_patient.php:128
+#: admin/admin.php:27
+msgid "Medicine"
+msgstr ""
+
+#: fronted_template.php:433
+#: hmgt_function.php:166
+#: settings.php:38
+#: admin/includes/dasboard.php:304
+#: admin/includes/event/add-event.php:78
+#: admin/includes/event/add-event.php:89
+#: admin/includes/message/composemail.php:38
+#: admin/admin.php:24
+#: template/message/composemail.php:37
+msgid "Laboratory Staff"
+msgstr ""
+
+#: fronted_template.php:448
+#: admin/includes/dasboard.php:318
+#: admin/includes/outpatient/add_out_patient.php:134
+#: admin/admin.php:33
+#: template/outpatient.php:389
+msgid "Diagnosis Report"
+msgstr ""
+
+#: fronted_template.php:463
+#: hmgt_function.php:167
+#: settings.php:39
+#: admin/includes/dasboard.php:332
+#: admin/includes/event/add-event.php:79
+#: admin/includes/event/add-event.php:90
+#: admin/includes/message/composemail.php:39
+#: admin/admin.php:25
+#: template/message/composemail.php:47
+msgid "Accountant"
+msgstr ""
+
+#: fronted_template.php:479
+#: hmgt_function.php:176
+#: admin/includes/dasboard.php:349
+#: admin/admin.php:38
+msgid "Invoice"
+msgstr ""
+
+#: fronted_template.php:507
+#: admin/includes/dasboard.php:368
+#: admin/admin.php:39
+msgid "Events"
+msgstr ""
+
+#: fronted_template.php:516
+#: hmgt_function.php:1464
+#: admin/includes/dasboard.php:388
+#: admin/includes/event/index.php:136
+#: admin/includes/event/index.php:147
+#: template/event.php:126
+#: template/event.php:136
+#: template/report.php:177
+#: admin/includes/report/index.php:170
+msgid "Start Date"
+msgstr ""
+
+#: fronted_template.php:517
+#: admin/includes/dasboard.php:391
+#: hmgt_function.php:1469
+#: admin/includes/event/index.php:137
+#: admin/includes/event/index.php:148
+#: template/event.php:127
+#: template/event.php:137
+#: template/report.php:184
+#: admin/includes/report/index.php:177
+msgid "End Date"
+msgstr ""
+
+#: fronted_template.php:523
+#: settings.php:257
+msgid "No Event Found"
+msgstr ""
+
+#: fronted_template.php:534
+#: admin/includes/dasboard.php:405
+#: admin/includes/event/add-event.php:29
+msgid "Notice"
+msgstr ""
+
+#: fronted_template.php:548
+msgid "No Notice Found"
+msgstr ""
+
+#: hmgt_function.php:76
+msgid "Login failed: You have entered an incorrect Username or password, please try again."
+msgstr ""
+
+#: hmgt_function.php:85
+#: template/account.php:169
+msgid "Username"
+msgstr ""
+
+#: hmgt_function.php:86
+#: admin/includes/accountant/add_accontant.php:145
+#: admin/includes/doctor/add_doctor.php:229
+#: admin/includes/laboratorist/add_laboratorist.php:144
+#: admin/includes/nurse/add_nurse.php:165
+#: admin/includes/outpatient/add_out_patient.php:235
+#: admin/includes/patient/add_patient.php:170
+#: admin/includes/pharmacist/add_pharmacist.php:144
+#: template/outpatient.php:490
+#: template/patient.php:453
+#: admin/includes/receptionist/add_receptionist.php:165
+msgid "Password"
+msgstr ""
+
+#: hmgt_function.php:87
+msgid "Remember Me"
+msgstr ""
+
+#: hmgt_function.php:88
+msgid "Log In"
+msgstr ""
+
+#: hmgt_function.php:172
+msgid "Operationlist"
+msgstr ""
+
+#: hmgt_function.php:173
+msgid "Diagnosis"
+msgstr ""
+
+#: hmgt_function.php:174
+#: admin/admin.php:34
+msgid "Blood Bank"
+msgstr ""
+
+#: hmgt_function.php:177
+#: settings.php:246
+#: admin/includes/event/add-event.php:30
+msgid "Event"
+msgstr ""
+
+#: hmgt_function.php:179
+#: admin/admin.php:41
+#: admin/includes/ambulance/index.php:157
+#: admin/includes/ambulance/index.php:168
+#: admin/includes/ambulance/add-ambulance-req.php:39
+#: template/ambulance.php:150
+#: template/ambulance.php:161
+#: template/ambulance.php:229
+msgid "Ambulance"
+msgstr ""
+
+#: hmgt_function.php:180
+msgid "Occupation Report"
+msgstr ""
+
+#: hmgt_function.php:181
+#: template/report.php:58
+#: template/report.php:158
+#: admin/includes/report/index.php:160
+msgid "Operation Report"
+msgstr ""
+
+#: hmgt_function.php:182
+msgid "Fail Report"
+msgstr ""
+
+#: hmgt_function.php:184
+msgid "Account"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Admit"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Under Treatment"
+msgstr ""
+
+#: hmgt_function.php:246
+#: admin/includes/OT/add-opration.php:84
+msgid "Operation"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Recovery"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Cured"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Discharge"
+msgstr ""
+
+#: hmgt_function.php:246
+msgid "Death"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "January"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "February"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "March"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "April"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "May"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "June"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "July"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "August"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "September"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "Octomber"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "November"
+msgstr ""
+
+#: hmgt_function.php:364
+msgid "December"
+msgstr ""
+
+#: hmgt_function.php:410
+#: hmgt_function.php:411
+#: settings.php:303
+msgid "Medicine Category"
+msgstr ""
+
+#: hmgt_function.php:412
+msgid "Add Category"
+msgstr ""
+
+#: hmgt_function.php:413
+#: admin/includes/medicine/add_medicine.php:34
+#: template/medicine.php:195
+msgid "Category Name"
+msgstr ""
+
+#: hmgt_function.php:419
+#: settings.php:279
+#: admin/includes/doctor/add_doctor.php:80
+#: admin/includes/nurse/index.php:141
+#: admin/includes/nurse/index.php:151
+#: admin/includes/nurse/add_nurse.php:77
+#: template/account.php:250
+#: template/doctor.php:44
+#: template/doctor.php:55
+#: template/accountant.php:45
+#: template/accountant.php:56
+#: template/laboratorystaff.php:44
+#: template/laboratorystaff.php:53
+#: template/nurse.php:39
+#: template/nurse.php:30
+#: template/pharmacist.php:44
+#: template/pharmacist.php:53
+#: template/supportstaff.php:44
+#: template/supportstaff.php:53
+#: admin/includes/receptionist/index.php:147
+#: admin/includes/receptionist/index.php:158
+#: admin/includes/receptionist/add_receptionist.php:77
+msgid "Department"
+msgstr ""
+
+#: hmgt_function.php:420
+#: hmgt_function.php:422
+msgid "Department Name"
+msgstr ""
+
+#: hmgt_function.php:421
+msgid "Add Department"
+msgstr ""
+
+#: hmgt_function.php:428
+#: settings.php:268
+#: admin/includes/bed-allotment/index.php:106
+#: admin/includes/bed-allotment/index.php:117
+#: admin/includes/OT/add-opration.php:157
+#: template/operation.php:313
+msgid "Bed Category"
+msgstr ""
+
+#: hmgt_function.php:429
+#: hmgt_function.php:431
+msgid "Bed Category Name"
+msgstr ""
+
+#: hmgt_function.php:430
+msgid "Add Bed Category"
+msgstr ""
+
+#: hmgt_function.php:437
+msgid "Operaion"
+msgstr ""
+
+#: hmgt_function.php:438
+#: hmgt_function.php:440
+msgid "Opearion Name"
+msgstr ""
+
+#: hmgt_function.php:439
+msgid "Add Opearion"
+msgstr ""
+
+#: hmgt_function.php:446
+#: admin/includes/doctor/add_doctor.php:103
+#: template/account.php:270
+#: template/doctor.php:45
+#: template/doctor.php:56
+#: admin/includes/doctor/index.php:187
+#: admin/includes/doctor/index.php:198
+msgid "Specialization"
+msgstr ""
+
+#: hmgt_function.php:447
+#: hmgt_function.php:448
+msgid "Specialization Name"
+msgstr ""
+
+#: hmgt_function.php:470
+msgid "Dignosis Report"
+msgstr ""
+
+#: hmgt_function.php:471
+#: hmgt_function.php:473
+msgid "Dignosis Report Name"
+msgstr ""
+
+#: hmgt_function.php:472
+msgid "Add Dignosis Report"
+msgstr ""
+
+#: hmgt_function.php:696
+#: hmgt_function.php:739
+msgid "Add"
+msgstr ""
+
+#: hmgt_function.php:710
+msgid "Diagnosis report by"
+msgstr ""
+
+#: hmgt_function.php:712
+#: admin/includes/outpatient/add_out_patient.php:142
+#: template/outpatient.php:397
+msgid "View Report"
+msgstr ""
+
+#: hmgt_function.php:715
+#: template/outpatient.php:400
+msgid "No Report"
+msgstr ""
+
+#: hmgt_function.php:754
+#: admin/includes/prescription/add_prescription.php:83
+msgid "case History"
+msgstr ""
+
+#: hmgt_function.php:760
+#: admin/includes/medicine/index.php:110
+#: template/medicine.php:101
+msgid "Medicine List"
+msgstr ""
+
+#: hmgt_function.php:767
+#: admin/includes/blood-bank/blood-donor-list.php:20
+#: admin/includes/blood-bank/blood-donor-list.php:30
+#: admin/includes/outpatient/index.php:168
+#: admin/includes/outpatient/index.php:179
+#: template/account.php:158
+#: template/accountant.php:44
+#: template/accountant.php:55
+#: template/bloodbank.php:337
+#: template/bloodbank.php:349
+#: template/laboratorystaff.php:43
+#: template/laboratorystaff.php:52
+#: template/outpatient.php:204
+#: template/outpatient.php:215
+#: template/pharmacist.php:43
+#: template/pharmacist.php:52
+#: template/supportstaff.php:43
+#: template/supportstaff.php:52
+#: admin/includes/receptionist/index.php:146
+#: admin/includes/receptionist/index.php:157
+#: template/outpatient.php:455
+#: template/patient.php:418
+#: admin/includes/receptionist/add_receptionist.php:130
+#: template/outpatient.php:1
+msgid "Name"
+msgstr ""
+
+#: hmgt_function.php:768
+msgid "Times"
+msgstr ""
+
+#: hmgt_function.php:795
+msgid "Extra Note"
+msgstr ""
+
+#: hmgt_function.php:822
+#: hmgt_function.php:981
+#: admin/includes/ambulance/index.php:159
+#: admin/includes/ambulance/index.php:170
+#: admin/includes/appointment/index.php:108
+#: admin/includes/appointment/index.php:117
+#: admin/includes/appointment/add-appointment.php:40
+#: admin/includes/diagnosis/index.php:119
+#: admin/includes/diagnosis/index.php:129
+#: admin/includes/invoice/add_expense.php:68
+#: admin/includes/invoice/add_income.php:86
+#: admin/includes/invoice/add_invoice.php:111
+#: admin/includes/invoice/expense-list.php:24
+#: admin/includes/invoice/expense-list.php:32
+#: admin/includes/invoice/income-list.php:25
+#: admin/includes/invoice/income-list.php:34
+#: admin/includes/OT/index.php:121
+#: admin/includes/OT/index.php:131
+#: admin/includes/prescription/index.php:122
+#: admin/includes/prescription/index.php:130
+#: template/ambulance.php:152
+#: template/ambulance.php:163
+#: template/appointment.php:112
+#: template/appointment.php:122
+#: template/appointment.php:198
+#: template/diagnosis.php:103
+#: template/diagnosis.php:113
+#: template/operation.php:119
+#: template/operation.php:129
+#: template/prescription.php:115
+#: template/prescription.php:123
+#: template/invoice.php:377
+#: template/invoice.php:434
+#: template/invoice.php:444
+#: template/invoice.php:546
+#: template/invoice.php:672
+#: template/invoice.php:681
+#: template/invoice.php:767
+#: template/report.php:50
+#: template/report.php:64
+#: template/report.php:99
+#: template/report.php:113
+#: admin/includes/report/index.php:50
+#: admin/includes/report/index.php:64
+#: admin/includes/report/index.php:99
+#: admin/includes/report/index.php:113
+#: admin/includes/prescription/index.php:126
+msgid "Date"
+msgstr ""
+
+#: hmgt_function.php:823
+#: hmgt_function.php:1065
+#: hmgt_function.php:1260
+#: admin/includes/invoice/index.php:218
+#: admin/includes/invoice/index.php:228
+#: admin/includes/invoice/add_expense.php:55
+#: admin/includes/invoice/add_income.php:73
+#: admin/includes/invoice/add_invoice.php:98
+#: admin/includes/patient/index.php:192
+#: admin/includes/patient/index.php:204
+#: template/patient.php:241
+#: template/patient.php:252
+#: template/invoice.php:243
+#: template/invoice.php:255
+#: template/invoice.php:363
+#: template/invoice.php:533
+#: template/invoice.php:574
+msgid "Status"
+msgstr ""
+
+#: hmgt_function.php:824
+msgid "Guardian"
+msgstr ""
+
+#: hmgt_function.php:883
+#: hmgt_function.php:936
+msgid "Notes by"
+msgstr ""
+
+#: hmgt_function.php:982
+msgid "Charge Name"
+msgstr ""
+
+#: hmgt_function.php:983
+#: admin/includes/bed/index.php:125
+#: admin/includes/bed/index.php:134
+#: admin/includes/bed/add-bed.php:56
+#: admin/includes/outpatient/index.php:218
+#: admin/includes/patient/index.php:242
+#: template/outpatient.php:254
+#: template/patient.php:280
+msgid "Charges"
+msgstr ""
+
+#: hmgt_function.php:1064
+#: hmgt_function.php:1259
+msgid "Issue Date"
+msgstr ""
+
+#: hmgt_function.php:1075
+#: hmgt_function.php:1270
+msgid "Payment To"
+msgstr ""
+
+#: hmgt_function.php:1078
+#: hmgt_function.php:1273
+msgid "Bill To"
+msgstr ""
+
+#: hmgt_function.php:1124
+#: hmgt_function.php:1319
+msgid "Entry"
+msgstr ""
+
+#: hmgt_function.php:1119
+msgid "Invoice Entries"
+msgstr ""
+
+#: hmgt_function.php:1125
+#: hmgt_function.php:1320
+#: admin/includes/medicine/index.php:139
+#: admin/includes/medicine/index.php:148
+#: admin/includes/medicine/add_medicine.php:63
+#: template/medicine.php:123
+#: template/medicine.php:132
+#: template/medicine.php:224
+#: template/treatment.php:106
+#: template/treatment.php:113
+#: admin/includes/treatment/index.php:113
+#: admin/includes/treatment/index.php:121
+msgid "Price"
+msgstr ""
+
+#: hmgt_function.php:1172
+#: hmgt_function.php:1367
+msgid "Sub Total :"
+msgstr ""
+
+#: hmgt_function.php:1176
+#: hmgt_function.php:1371
+#: admin/includes/invoice/index.php:115
+#: admin/includes/invoice/index.php:125
+#: admin/includes/invoice/add_invoice.php:86
+#: template/invoice.php:241
+#: template/invoice.php:253
+#: template/invoice.php:351
+msgid "Vat Percentage"
+msgstr ""
+
+#: hmgt_function.php:1180
+#: hmgt_function.php:1375
+msgid "Discount :"
+msgstr ""
+
+#: hmgt_function.php:1195
+#: hmgt_function.php:1390
+msgid "Grand Total :"
+msgstr ""
+
+#: hmgt_function.php:1202
+msgid "Print"
+msgstr ""
+
+#: hmgt_function.php:1438
+msgid "Event Detail"
+msgstr ""
+
+#: hmgt_function.php:1445
+#: admin/includes/event/index.php:134
+#: admin/includes/event/index.php:145
+#: admin/includes/invoice/index.php:114
+#: admin/includes/invoice/index.php:124
+#: template/event.php:124
+#: template/event.php:134
+#: template/invoice.php:237
+#: template/invoice.php:251
+msgid "Title"
+msgstr ""
+
+#: hmgt_function.php:1451
+#: admin/includes/event/index.php:135
+#: admin/includes/event/index.php:146
+#: template/event.php:125
+#: template/event.php:135
+msgid "Comment"
+msgstr ""
+
+#: hmgt_function.php:1457
+msgid "Event/Notice For"
+msgstr ""
+
+#: hmgt_function.php:1522
+#: admin/includes/accountant/add_accontant.php:80
+#: admin/includes/doctor/add_doctor.php:138
+#: admin/includes/laboratorist/add_laboratorist.php:79
+#: admin/includes/nurse/add_nurse.php:100
+#: admin/includes/outpatient/add_out_patient.php:171
+#: admin/includes/patient/add_patient.php:106
+#: admin/includes/patient/add_patient_step2.php:136
+#: admin/includes/pharmacist/add_pharmacist.php:79
+#: template/account.php:307
+#: template/patient.php:389
+#: template/outpatient.php:426
+#: template/patient.php:626
+#: admin/includes/receptionist/add_receptionist.php:100
+msgid "Home Town Address"
+msgstr ""
+
+#: hmgt_function.php:1551
+msgid "Sex"
+msgstr ""
+
+#: hmgt_function.php:1555
+#: hmgt_function.php:1536
+#: admin/includes/doctor/add_doctor.php:166
+msgid "Birth Date"
+msgstr ""
+
+#: hmgt_function.php:1559
+#: admin/includes/doctor/index.php:188
+#: admin/includes/doctor/index.php:199
+#: admin/includes/doctor/add_doctor.php:124
+#: template/account.php:291
+#: template/account.php:46
+#: template/account.php:57
+msgid "Degree"
+msgstr ""
+
+#: hmgt_function.php:1563
+msgid "Visiting fees"
+msgstr ""
+
+#: hmgt_function.php:1588
+#: admin/includes/outpatient/add_out_patient.php:114
+#: template/outpatient.php:369
+msgid "Convert into in patient"
+msgstr ""
+
+#: settings.php:315
+msgid "Nurse Notes"
+msgstr ""
+
+#: settings.php:327
+msgid "Operation Category"
+msgstr ""
+
+#: settings.php:339
+#: admin/includes/diagnosis/index.php:121
+#: admin/includes/diagnosis/index.php:131
+#: admin/includes/diagnosis/add_diagnosis.php:78
+#: template/diagnosis.php:105
+#: template/diagnosis.php:115
+#: template/diagnosis.php:213
+msgid "Report Type"
+msgstr ""
+
+#: settings.php:351
+msgid "Spacialization"
+msgstr ""
+
+#: admin/includes/general-settings.php:19
+#: admin/includes/accountant/index.php:66
+#: admin/includes/ambulance/index.php:83
+#: admin/includes/appointment/index.php:50
+#: admin/includes/bed/index.php:50
+#: admin/includes/bed-allotment/index.php:49
+#: admin/includes/blood-bank/index.php:88
+#: admin/includes/diagnosis/index.php:46
+#: admin/includes/doctor/index.php:108
+#: admin/includes/event/index.php:89
+#: admin/includes/invoice/index.php:136
+#: admin/includes/laboratorist/index.php:76
+#: admin/includes/medicine/index.php:87
+#: admin/includes/nurse/index.php:90
+#: admin/includes/OT/index.php:72
+#: admin/includes/outpatient/index.php:117
+#: admin/includes/patient/index.php:125
+#: admin/includes/pharmacist/index.php:74
+#: admin/includes/prescription/index.php:74
+#: template/account.php:124
+#: template/ambulance.php:15
+#: template/ambulance.php:87
+#: template/appointment.php:68
+#: template/bedallotment.php:58
+#: template/bloodbank.php:112
+#: template/diagnosis.php:44
+#: template/event.php:72
+#: template/medicine.php:63
+#: template/operation.php:48
+#: template/outpatient.php:136
+#: template/patient.php:149
+#: template/prescription.php:58
+#: template/treatment.php:48
+#: template/invoice.php:121
+#: admin/includes/receptionist/index.php:92
+#: admin/includes/prescription/index.php:74
+msgid "Record updated successfully"
+msgstr ""
+
+#: admin/includes/accountant/index.php:59
+#: admin/includes/ambulance/index.php:76
+#: admin/includes/appointment/index.php:43
+#: admin/includes/bed/index.php:43
+#: admin/includes/bed-allotment/index.php:42
+#: admin/includes/blood-bank/index.php:81
+#: admin/includes/diagnosis/index.php:39
+#: admin/includes/doctor/index.php:101
+#: admin/includes/event/index.php:82
+#: admin/includes/invoice/index.php:129
+#: admin/includes/laboratorist/index.php:69
+#: admin/includes/medicine/index.php:80
+#: admin/includes/nurse/index.php:83
+#: admin/includes/OT/index.php:65
+#: admin/includes/outpatient/index.php:110
+#: admin/includes/patient/index.php:118
+#: admin/includes/pharmacist/index.php:67
+#: admin/includes/prescription/index.php:67
+#: template/ambulance.php:23
+#: template/ambulance.php:80
+#: template/appointment.php:61
+#: template/bedallotment.php:51
+#: template/bloodbank.php:105
+#: template/diagnosis.php:37
+#: template/event.php:65
+#: template/medicine.php:11
+#: template/medicine.php:56
+#: template/operation.php:41
+#: template/outpatient.php:129
+#: template/patient.php:142
+#: template/prescription.php:51
+#: template/treatment.php:41
+#: template/invoice.php:114
+#: admin/includes/receptionist/index.php:85
+#: admin/includes/prescription/index.php:67
+msgid "Record inserted successfully"
+msgstr ""
+
+#: admin/includes/accountant/index.php:76
+#: admin/includes/ambulance/index.php:93
+#: admin/includes/appointment/index.php:60
+#: admin/includes/bed/index.php:60
+#: admin/includes/bed-allotment/index.php:59
+#: admin/includes/blood-bank/index.php:98
+#: admin/includes/diagnosis/index.php:56
+#: admin/includes/doctor/index.php:118
+#: admin/includes/event/index.php:99
+#: admin/includes/invoice/index.php:146
+#: admin/includes/laboratorist/index.php:86
+#: admin/includes/medicine/index.php:97
+#: admin/includes/nurse/index.php:100
+#: admin/includes/OT/index.php:82
+#: admin/includes/outpatient/index.php:127
+#: admin/includes/patient/index.php:135
+#: admin/includes/pharmacist/index.php:84
+#: admin/includes/prescription/index.php:84
+#: template/ambulance.php:97
+#: template/appointment.php:78
+#: template/bedallotment.php:68
+#: template/bloodbank.php:92
+#: template/diagnosis.php:54
+#: template/event.php:82
+#: template/medicine.php:73
+#: template/operation.php:58
+#: template/outpatient.php:146
+#: template/patient.php:159
+#: template/prescription.php:68
+#: template/treatment.php:58
+#: template/invoice.php:131
+#: admin/includes/receptionist/index.php:102
+#: admin/includes/prescription/index.php:84
+msgid "Record deleted successfully"
+msgstr ""
+
+#: admin/includes/accountant/index.php:31
+#: admin/includes/doctor/index.php:57
+#: admin/includes/outpatient/index.php:63
+#: template/outpatient.php:82
+msgid "Username Or Emailid All Ready Exist."
+msgstr ""
+
+#: admin/includes/general-settings.php:44
+#: admin/admin.php:48
+msgid "General Settings"
+msgstr ""
+
+#: admin/includes/general-settings.php:49
+msgid "Hospital Name"
+msgstr ""
+
+#: admin/includes/general-settings.php:55
+msgid "Starting Year"
+msgstr ""
+
+#: admin/includes/general-settings.php:61
+msgid "Hospital Address"
+msgstr ""
+
+#: admin/includes/general-settings.php:67
+msgid "Official Phone Number"
+msgstr ""
+
+#: admin/includes/general-settings.php:73
+#: admin/includes/accountant/add_accontant.php:103
+#: admin/includes/doctor/add_doctor.php:159
+#: admin/includes/doctor/add_doctor.php:187
+#: admin/includes/laboratorist/add_laboratorist.php:102
+#: admin/includes/nurse/add_nurse.php:123
+#: admin/includes/outpatient/add_out_patient.php:193
+#: admin/includes/patient/add_patient.php:128
+#: template/account.php:341
+#: template/account.php:386
+#: template/outpatient.php:448
+#: template/patient.php:411
+#: admin/includes/receptionist/add_receptionist.php:123
+msgid "Country"
+msgstr ""
+
+#: admin/includes/general-settings.php:88
+msgid "Hospital Logo"
+msgstr ""
+
+#: admin/includes/general-settings.php:102
+msgid "Profile Cover Image"
+msgstr ""
+
+#: admin/includes/general-settings.php:106
+#: admin/includes/general-settings.php:107
+msgid "Upload Cover Image"
+msgstr ""
+
+#: admin/includes/general-settings.php:119
+#: admin/includes/ambulance/add-new-ambulance.php:110
+#: admin/includes/blood-bank/add-blood-donor.php:98
+#: admin/includes/blood-bank/add-blood-group.php:70
+#: template/bloodbank.php:322
+#: template/template/account.php:216
+#: template/template/account.php:421
+#: template/bloodbank.php:243
+msgid "Save"
+msgstr ""
+
+#: admin/includes/accountant/index.php:97
+#: template/accountant.php:27
+msgid "Accountant List"
+msgstr ""
+
+#: admin/includes/accountant/index.php:108
+msgid "Add Accountant"
+msgstr ""
+
+#: admin/includes/accountant/index.php:102
+msgid "Edit Accountant"
+msgstr ""
+
+#: admin/includes/accountant/index.php:126
+#: admin/includes/accountant/index.php:136
+#: admin/includes/doctor/index.php:184
+#: admin/includes/doctor/index.php:196
+#: admin/includes/laboratorist/index.php:127
+#: admin/includes/laboratorist/index.php:136
+#: admin/includes/nurse/index.php:139
+#: admin/includes/nurse/index.php:149
+#: admin/includes/outpatient/index.php:166
+#: admin/includes/outpatient/index.php:177
+#: admin/includes/patient/index.php:188
+#: admin/includes/patient/index.php:200
+#: admin/includes/pharmacist/index.php:122
+#: admin/includes/pharmacist/index.php:131
+#: template/accountant.php:43
+#: template/accountant.php:54
+#: template/doctor.php:42
+#: template/doctor.php:53
+#: template/laboratorystaff.php:42
+#: template/laboratorystaff.php:51
+#: template/nurse.php:28
+#: template/nurse.php:37
+#: template/outpatient.php:203
+#: template/outpatient.php:214
+#: template/patient.php:237
+#: template/patient.php:248
+#: template/pharmacist.php:42
+#: template/pharmacist.php:51
+#: template/supportstaff.php:42
+#: template/supportstaff.php:51
+#: admin/includes/receptionist/index.php:145
+#: admin/includes/receptionist/index.php:156
+msgid "Photo"
+msgstr ""
+
+#: admin/includes/accountant/index.php:127
+#: admin/includes/accountant/index.php:137
+msgid "Accountant Name"
+msgstr ""
+
+#: admin/includes/accountant/index.php:128
+#: admin/includes/accountant/index.php:138
+#: admin/includes/doctor/index.php:190
+#: admin/includes/doctor/index.php:202
+#: admin/includes/laboratorist/index.php:130
+#: admin/includes/laboratorist/index.php:139
+#: admin/includes/nurse/index.php:143
+#: admin/includes/nurse/index.php:153
+#: admin/includes/outpatient/index.php:169
+#: admin/includes/outpatient/index.php:180
+#: admin/includes/patient/index.php:191
+#: admin/includes/patient/index.php:203
+#: admin/includes/pharmacist/index.php:124
+#: admin/includes/pharmacist/index.php:133
+msgid "Mobile No."
+msgstr ""
+
+#: admin/includes/accountant/index.php:129
+#: admin/includes/accountant/index.php:139
+msgid "Accountant Email"
+msgstr ""
+
+#: hmgt_function.php:488
+#: admin/includes/accountant/index.php:130
+#: admin/includes/accountant/index.php:140
+#: admin/includes/ambulance/index.php:163
+#: admin/includes/ambulance/index.php:174
+#: admin/includes/ambulance/index.php:235
+#: admin/includes/ambulance/index.php:225
+#: admin/includes/appointment/index.php:111
+#: admin/includes/appointment/index.php:120
+#: admin/includes/bed/index.php:127
+#: admin/includes/bed/index.php:136
+#: admin/includes/bed-allotment/index.php:112
+#: admin/includes/bed-allotment/index.php:123
+#: admin/includes/blood-bank/index.php:162
+#: admin/includes/blood-bank/index.php:169
+#: admin/includes/blood-bank/blood-donor-list.php:23
+#: admin/includes/blood-bank/blood-donor-list.php:33
+#: admin/includes/diagnosis/index.php:124
+#: admin/includes/diagnosis/index.php:134
+#: admin/includes/doctor/index.php:191
+#: admin/includes/doctor/index.php:203
+#: admin/includes/event/index.php:140
+#: admin/includes/event/index.php:151
+#: admin/includes/invoice/index.php:219
+#: admin/includes/invoice/index.php:229
+#: admin/includes/invoice/expense-list.php:25
+#: admin/includes/invoice/expense-list.php:33
+#: admin/includes/invoice/income-list.php:26
+#: admin/includes/invoice/income-list.php:35
+#: admin/includes/laboratorist/index.php:131
+#: admin/includes/laboratorist/index.php:140
+#: admin/includes/medicine/index.php:141
+#: admin/includes/medicine/index.php:150
+#: admin/includes/nurse/index.php:144
+#: admin/includes/nurse/index.php:154
+#: admin/includes/OT/index.php:123
+#: admin/includes/OT/index.php:133
+#: admin/includes/outpatient/index.php:172
+#: admin/includes/outpatient/index.php:183
+#: admin/includes/patient/index.php:194
+#: admin/includes/patient/index.php:206
+#: admin/includes/pharmacist/index.php:126
+#: admin/includes/pharmacist/index.php:135
+#: admin/includes/prescription/index.php:125
+#: admin/includes/prescription/index.php:133
+#: template/ambulance.php:156
+#: template/ambulance.php:166
+#: template/ambulance.php:116
+#: template/ambulance.php:126
+#: template/bedallotment.php:107
+#: template/bedallotment.php:117
+#: template/bloodbank.php:178
+#: template/bloodbank.php:187
+#: template/bloodbank.php:343
+#: template/bloodbank.php:355
+#: template/diagnosis.php:108
+#: template/diagnosis.php:118
+#: template/doctor.php:48
+#: template/doctor.php:59
+#: template/event.php:129
+#: template/event.php:139
+#: template/medicine.php:125
+#: template/medicine.php:134
+#: template/operation.php:121
+#: template/operation.php:131
+#: template/outpatient.php:209
+#: template/outpatient.php:220
+#: template/patient.php:243
+#: template/patient.php:254
+#: template/prescription.php:118
+#: template/prescription.php:126
+#: template/treatment.php:107
+#: template/treatment.php:114
+#: template/invoice.php:244
+#: template/invoice.php:256
+#: template/invoice.php:435
+#: template/invoice.php:445
+#: template/invoice.php:682
+#: template/invoice.php:673
+#: admin/includes/treatment/index.php:114
+#: admin/includes/treatment/index.php:122
+#: admin/includes/receptionist/index.php:150
+#: admin/includes/receptionist/index.php:161
+msgid "Action"
+msgstr ""
+
+#: admin/includes/accountant/index.php:171
+#: admin/includes/ambulance/index.php:255
+#: admin/includes/ambulance/index.php:194
+#: admin/includes/appointment/index.php:144
+#: admin/includes/bed/index.php:153
+#: admin/includes/bed-allotment/index.php:154
+#: admin/includes/blood-bank/index.php:181
+#: admin/includes/blood-bank/blood-donor-list.php:58
+#: admin/includes/diagnosis/index.php:167
+#: admin/includes/doctor/index.php:240
+#: admin/includes/event/index.php:188
+#: admin/includes/invoice/index.php:247
+#: admin/includes/invoice/expense-list.php:56
+#: admin/includes/invoice/income-list.php:59
+#: admin/includes/laboratorist/index.php:168
+#: admin/includes/medicine/index.php:167
+#: admin/includes/nurse/index.php:185
+#: admin/includes/OT/index.php:164
+#: admin/includes/outpatient/index.php:219
+#: admin/includes/patient/index.php:243
+#: admin/includes/pharmacist/index.php:165
+#: admin/includes/prescription/index.php:155
+#: template/ambulance.php:184
+#: template/appointment.php:151
+#: template/bedallotment.php:139
+#: template/bloodbank.php:381
+#: template/diagnosis.php:151
+#: template/doctor.php:94
+#: template/event.php:169
+#: template/medicine.php:151
+#: template/operation.php:161
+#: template/outpatient.php:257
+#: template/patient.php:282
+#: template/prescription.php:149
+#: template/treatment.php:132
+#: template/invoice.php:278
+#: template/invoice.php:469
+#: template/invoice.php:705
+#: admin/includes/treatment/index.php:140
+#: admin/includes/receptionist/index.php:194
+msgid "Edit"
+msgstr ""
+
+#: admin/includes/accountant/index.php:174
+#: admin/includes/ambulance/index.php:258
+#: admin/includes/ambulance/index.php:197
+#: admin/includes/appointment/index.php:147
+#: admin/includes/bed/index.php:156
+#: admin/includes/bed-allotment/index.php:157
+#: admin/includes/blood-bank/index.php:184
+#: admin/includes/blood-bank/blood-donor-list.php:61
+#: admin/includes/diagnosis/index.php:171
+#: admin/includes/doctor/index.php:243
+#: admin/includes/event/index.php:190
+#: admin/includes/invoice/index.php:250
+#: admin/includes/invoice/add_expense.php:106
+#: admin/includes/invoice/add_expense.php:128
+#: admin/includes/invoice/add_income.php:124
+#: admin/includes/invoice/add_income.php:145
+#: admin/includes/invoice/expense-list.php:59
+#: admin/includes/invoice/income-list.php:62
+#: admin/includes/laboratorist/index.php:171
+#: admin/includes/medicine/index.php:170
+#: admin/includes/message/view_message.php:44
+#: admin/includes/nurse/index.php:188
+#: admin/includes/OT/index.php:167
+#: admin/includes/outpatient/index.php:222
+#: admin/includes/patient/index.php:246
+#: admin/includes/pharmacist/index.php:168
+#: admin/includes/prescription/index.php:158
+#: admin/includes/prescription/add_prescription.php:140
+#: admin/includes/prescription/add_prescription.php:183
+#: template/ambulance.php:187
+#: template/appointment.php:154
+#: template/bedallotment.php:142
+#: template/bloodbank.php:384
+#: template/diagnosis.php:156
+#: template/doctor.php:97
+#: template/event.php:171
+#: template/medicine.php:154
+#: template/operation.php:164
+#: template/prescription.php:152
+#: template/prescription.php:312
+#: template/prescription.php:354
+#: template/treatment.php:135
+#: template/invoice.php:281
+#: template/invoice.php:472
+#: template/invoice.php:604
+#: template/invoice.php:708
+#: template/invoice.php:805
+#: template/invoice.php:826
+#: admin/includes/receptionist/index.php:197
+#: template/message/view_message.php:43
+#: admin/includes/treatment/index.php:143
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/accountant/index.php:173
+#: admin/includes/ambulance/index.php:257
+#: admin/includes/ambulance/index.php:196
+#: admin/includes/appointment/index.php:146
+#: admin/includes/bed/index.php:155
+#: admin/includes/bed-allotment/index.php:156
+#: admin/includes/blood-bank/index.php:183
+#: admin/includes/blood-bank/blood-donor-list.php:60
+#: admin/includes/diagnosis/index.php:170
+#: admin/includes/doctor/index.php:242
+#: admin/includes/event/index.php:190
+#: admin/includes/invoice/index.php:249
+#: admin/includes/invoice/expense-list.php:58
+#: admin/includes/invoice/income-list.php:61
+#: admin/includes/laboratorist/index.php:170
+#: admin/includes/medicine/index.php:169
+#: admin/includes/message/view_message.php:44
+#: admin/includes/nurse/index.php:187
+#: admin/includes/OT/index.php:166
+#: admin/includes/outpatient/index.php:221
+#: admin/includes/patient/index.php:245
+#: admin/includes/pharmacist/index.php:167
+#: admin/includes/prescription/index.php:157
+#: template/ambulance.php:186
+#: template/appointment.php:153
+#: template/bedallotment.php:141
+#: template/bloodbank.php:383
+#: template/diagnosis.php:155
+#: template/doctor.php:96
+#: template/event.php:171
+#: template/medicine.php:153
+#: template/operation.php:163
+#: template/prescription.php:151
+#: template/treatment.php:134
+#: template/invoice.php:280
+#: template/invoice.php:471
+#: template/invoice.php:707
+#: template/message/view_message.php:43
+#: admin/includes/treatment/index.php:142
+#: admin/includes/receptionist/index.php:196
+msgid "Are you sure you want to delete this record?"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:41
+#: admin/includes/doctor/add_doctor.php:43
+#: admin/includes/laboratorist/add_laboratorist.php:40
+#: admin/includes/nurse/add_nurse.php:40
+#: admin/includes/outpatient/add_out_patient.php:62
+#: admin/includes/patient/add_patient.php:55
+#: admin/includes/patient/add_patient_step2.php:102
+#: admin/includes/pharmacist/add_pharmacist.php:40
+#: template/outpatient.php:317
+#: template/patient.php:338
+#: template/patient.php:592
+#: admin/includes/receptionist/add_receptionist.php:40
+msgid "First Name"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:47
+#: admin/includes/doctor/add_doctor.php:49
+#: admin/includes/laboratorist/add_laboratorist.php:46
+#: admin/includes/nurse/add_nurse.php:46
+#: admin/includes/outpatient/add_out_patient.php:68
+#: admin/includes/patient/add_patient.php:61
+#: admin/includes/patient/add_patient_step2.php:108
+#: admin/includes/pharmacist/add_pharmacist.php:46
+#: template/outpatient.php:323
+#: template/patient.php:344
+#: template/patient.php:598
+#: admin/includes/receptionist/add_receptionist.php:46
+msgid "Middle Name"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:53
+#: admin/includes/doctor/add_doctor.php:55
+#: admin/includes/laboratorist/add_laboratorist.php:52
+#: admin/includes/nurse/add_nurse.php:52
+#: admin/includes/outpatient/add_out_patient.php:74
+#: admin/includes/patient/add_patient.php:67
+#: admin/includes/patient/add_patient_step2.php:114
+#: admin/includes/pharmacist/add_pharmacist.php:52
+#: template/outpatient.php:329
+#: template/patient.php:350
+#: template/patient.php:604
+#: admin/includes/receptionist/add_receptionist.php:52
+msgid "Last Name"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:59
+#: admin/includes/blood-bank/add-blood-donor.php:45
+#: admin/includes/blood-bank/blood-donor-list.php:23
+#: admin/includes/blood-bank/blood-donor-list.php:33
+#: admin/includes/doctor/add_doctor.php:61
+#: admin/includes/laboratorist/add_laboratorist.php:58
+#: admin/includes/nurse/add_nurse.php:58
+#: admin/includes/outpatient/add_out_patient.php:81
+#: admin/includes/patient/add_patient.php:74
+#: admin/includes/patient/add_patient_step2.php:121
+#: admin/includes/pharmacist/add_pharmacist.php:58
+#: template/bloodbank.php:269
+#: template/bloodbank.php:240
+#: template/bloodbank.php:252
+#: template/outpatient.php:336
+#: template/patient.php:357
+#: template/patient.php:611
+#: admin/includes/receptionist/add_receptionist.php:58
+msgid "Gender"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:63
+#: admin/includes/blood-bank/add-blood-donor.php:49
+#: admin/includes/doctor/add_doctor.php:65
+#: admin/includes/laboratorist/add_laboratorist.php:62
+#: admin/includes/nurse/add_nurse.php:62
+#: admin/includes/outpatient/add_out_patient.php:85
+#: admin/includes/patient/add_patient.php:78
+#: admin/includes/patient/add_patient_step2.php:125
+#: admin/includes/pharmacist/add_pharmacist.php:62
+msgid "Male"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:66
+#: admin/includes/blood-bank/add-blood-donor.php:52
+#: admin/includes/doctor/add_doctor.php:68
+#: admin/includes/laboratorist/add_laboratorist.php:65
+#: admin/includes/nurse/add_nurse.php:65
+#: admin/includes/outpatient/add_out_patient.php:88
+#: admin/includes/patient/add_patient.php:81
+#: admin/includes/patient/add_patient_step2.php:128
+#: admin/includes/pharmacist/add_pharmacist.php:65
+msgid "Female"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:71
+#: admin/includes/doctor/add_doctor.php:73
+#: admin/includes/laboratorist/add_laboratorist.php:70
+#: admin/includes/nurse/add_nurse.php:70
+#: admin/includes/outpatient/add_out_patient.php:94
+#: admin/includes/patient/add_patient.php:87
+#: admin/includes/pharmacist/add_pharmacist.php:70
+#: template/account.php:242
+#: template/outpatient.php:349
+#: template/patient.php:370
+#: admin/includes/receptionist/add_receptionist.php:70
+msgid "Date of birth"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:89
+#: admin/includes/doctor/add_doctor.php:145
+#: admin/includes/doctor/add_doctor.php:173
+#: admin/includes/laboratorist/add_laboratorist.php:88
+#: admin/includes/nurse/add_nurse.php:109
+#: admin/includes/outpatient/add_out_patient.php:179
+#: admin/includes/patient/add_patient.php:114
+#: admin/includes/patient/add_patient_step2.php:145
+#: template/account.php:319
+#: template/account.php:364
+#: template/outpatient.php:434
+#: template/patient.php:397
+#: template/patient.php:635
+#: admin/includes/receptionist/add_receptionist.php:109
+msgid "City"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:96
+#: admin/includes/doctor/add_doctor.php:152
+#: admin/includes/doctor/add_doctor.php:180
+#: admin/includes/laboratorist/add_laboratorist.php:95
+#: admin/includes/nurse/add_nurse.php:116
+#: admin/includes/outpatient/add_out_patient.php:186
+#: admin/includes/patient/add_patient.php:121
+#: template/account.php:330
+#: template/account.php:375
+#: template/outpatient.php:441
+#: template/patient.php:404
+#: admin/includes/receptionist/add_receptionist.php:116
+msgid "State"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:110
+#: admin/includes/doctor/add_doctor.php:194
+#: admin/includes/laboratorist/add_laboratorist.php:109
+#: admin/includes/nurse/add_nurse.php:130
+#: admin/includes/outpatient/add_out_patient.php:200
+#: admin/includes/patient/add_patient.php:135
+msgid "Zip Code"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:117
+#: admin/includes/doctor/add_doctor.php:201
+#: admin/includes/laboratorist/add_laboratorist.php:116
+#: admin/includes/nurse/add_nurse.php:137
+#: admin/includes/outpatient/add_out_patient.php:207
+#: admin/includes/patient/add_patient.php:142
+#: admin/includes/patient/add_patient_step2.php:155
+#: admin/includes/pharmacist/add_pharmacist.php:116
+#: template/outpatient.php:462
+#: template/patient.php:425
+#: template/patient.php:645
+#: admin/includes/receptionist/add_receptionist.php:137
+msgid "Mobile Number"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:121
+#: admin/includes/blood-bank/add-blood-donor.php:63
+#: admin/includes/doctor/add_doctor.php:208
+#: admin/includes/laboratorist/add_laboratorist.php:123
+#: admin/includes/nurse/add_nurse.php:144
+#: admin/includes/outpatient/add_out_patient.php:214
+#: admin/includes/patient/add_patient.php:149
+#: admin/includes/patient/add_patient_step2.php:162
+#: admin/includes/pharmacist/add_pharmacist.php:123
+#: template/account.php:397
+#: template/bloodbank.php:287
+#: template/outpatient.php:206
+#: template/outpatient.php:217
+#: template/outpatient.php:469
+#: template/patient.php:240
+#: template/patient.php:251
+#: template/patient.php:432
+#: template/patient.php:652
+#: admin/includes/receptionist/add_receptionist.php:144
+msgid "Phone"
+msgstr ""
+
+#: hmgt_function.php:1518
+#: admin/includes/general-settings.php:81
+#: admin/includes/accountant/add_accontant.php:131
+#: admin/includes/blood-bank/add-blood-donor.php:70
+#: admin/includes/doctor/add_doctor.php:215
+#: admin/includes/laboratorist/add_laboratorist.php:130
+#: admin/includes/nurse/add_nurse.php:151
+#: admin/includes/outpatient/index.php:171
+#: admin/includes/outpatient/index.php:182
+#: admin/includes/outpatient/add_out_patient.php:221
+#: admin/includes/patient/add_patient.php:156
+#: admin/includes/pharmacist/add_pharmacist.php:130
+#: template/account.php:408
+#: template/bloodbank.php:294
+#: template/accountant.php:47
+#: template/accountant.php:58
+#: template/laboratorystaff.php:46
+#: template/laboratorystaff.php:55
+#: template/outpatient.php:208
+#: template/outpatient.php:219
+#: template/outpatient.php:476
+#: template/patient.php:439
+#: template/pharmacist.php:46
+#: template/pharmacist.php:55
+#: template/supportstaff.php:46
+#: template/supportstaff.php:55
+#: admin/includes/receptionist/index.php:148
+#: admin/includes/receptionist/index.php:160
+#: admin/includes/receptionist/add_receptionist.php:151
+msgid "Email"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:138
+#: admin/includes/doctor/add_doctor.php:222
+#: admin/includes/laboratorist/add_laboratorist.php:137
+#: admin/includes/nurse/add_nurse.php:158
+#: admin/includes/outpatient/add_out_patient.php:228
+#: admin/includes/patient/add_patient.php:163
+#: admin/includes/pharmacist/add_pharmacist.php:137
+#: template/outpatient.php:483
+#: template/patient.php:446
+#: admin/includes/receptionist/add_receptionist.php:158
+msgid "User Name"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:151
+#: admin/includes/ambulance/index.php:220
+#: admin/includes/ambulance/index.php:225
+#: admin/includes/ambulance/index.php:230
+#: admin/includes/doctor/add_doctor.php:235
+#: admin/includes/laboratorist/add_laboratorist.php:150
+#: admin/includes/nurse/add_nurse.php:171
+#: admin/includes/outpatient/add_out_patient.php:241
+#: admin/includes/patient/add_patient.php:176
+#: admin/includes/patient/add_patient_step2.php:177
+#: admin/includes/pharmacist/add_pharmacist.php:150
+#: template/outpatient.php:496
+#: template/patient.php:459
+#: template/patient.php:667
+#: admin/includes/receptionist/add_receptionist.php:171
+msgid "Image"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:158
+#: admin/includes/ambulance/add-new-ambulance.php:75
+#: admin/includes/ambulance/add-new-ambulance.php:76
+#: admin/includes/accountant/add_accontant.php:157
+#: admin/includes/doctor/add_doctor.php:242
+#: admin/includes/laboratorist/add_laboratorist.php:157
+#: admin/includes/nurse/add_nurse.php:178
+#: admin/includes/outpatient/add_out_patient.php:248
+#: admin/includes/patient/add_patient.php:182
+#: admin/includes/patient/add_patient.php:183
+#: admin/includes/patient/add_patient_step2.php:184
+#: admin/includes/patient/add_patient_step2.php:183
+#: admin/includes/pharmacist/add_pharmacist.php:156
+#: admin/includes/pharmacist/add_pharmacist.php:157
+#: template/outpatient.php:505
+#: template/patient.php:466
+#: template/patient.php:474
+#: admin/includes/receptionist/add_receptionist.php:178
+#: admin/includes/receptionist/add_receptionist.php:177
+msgid "Upload image"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:185
+#: admin/includes/doctor/add_doctor.php:311
+#: admin/includes/laboratorist/add_laboratorist.php:185
+#: admin/includes/nurse/add_nurse.php:207
+#: admin/includes/pharmacist/add_pharmacist.php:184
+#: admin/includes/receptionist/add_receptionist.php:207
+msgid "Save Staff User"
+msgstr ""
+
+#: admin/includes/accountant/add_accontant.php:185
+#: admin/includes/doctor/add_doctor.php:311
+#: admin/includes/laboratorist/add_laboratorist.php:185
+#: admin/includes/nurse/add_nurse.php:207
+#: admin/includes/pharmacist/add_pharmacist.php:184
+#: admin/includes/receptionist/add_receptionist.php:207
+msgid "Add Staff User"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:114
+msgid "Ambulance Reuested List"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:119
+msgid "Edit Ambulance Request"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:125
+#: template/ambulance.php:299
+#: admin/includes/ambulance/add-ambulance-req.php:110
+msgid "Add Ambulance Request"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:128
+msgid "Ambulance List"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:133
+msgid "Edit Ambulance"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:139
+msgid "Add New Ambulance"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:114
+#: template/ambulance.php:153
+#: template/ambulance.php:164
+msgid "Time"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:161
+#: admin/includes/ambulance/index.php:172
+#: admin/includes/ambulance/add-ambulance-req.php:104
+#: template/ambulance.php:293
+#: template/ambulance.php:154
+#: template/ambulance.php:165
+msgid "Dispatch Time"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:172
+#: admin/includes/ambulance/index.php:231
+#: admin/includes/ambulance/add-new-ambulance.php:28
+msgid "Ambulance ID"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:222
+#: admin/includes/ambulance/index.php:231
+msgid "Reg NO"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:223
+#: admin/includes/ambulance/index.php:233
+#: admin/includes/ambulance/add-new-ambulance.php:40
+msgid "Driver Name"
+msgstr ""
+
+#: admin/includes/ambulance/index.php:224
+#: admin/includes/ambulance/index.php:234
+#: admin/includes/ambulance/add-new-ambulance.php:58
+msgid "Charge"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:34
+msgid "Registration Number"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:46
+msgid "Driver Address"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:52
+msgid "Driver Phone Number"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:64
+msgid "Discription"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:70
+msgid "Driver Image"
+msgstr ""
+
+#: admin/includes/ambulance/add-new-ambulance.php:110
+msgid "Add Ambulance"
+msgstr ""
+
+#: admin/includes/ambulance/add-ambulance-req.php:39
+#: template/ambulance.php:232
+msgid "select Ambulance"
+msgstr ""
+
+#: admin/includes/ambulance/add-ambulance-req.php:67
+#: admin/includes/appointment/add-appointment.php:54
+#: admin/includes/appointment/add-appointment.php:57
+#: admin/includes/bed-allotment/bed-allotment.php:49
+#: admin/includes/diagnosis/add_diagnosis.php:55
+#: admin/includes/invoice/add_income.php:54
+#: admin/includes/invoice/add_invoice.php:63
+#: admin/includes/OT/add-opration.php:46
+#: admin/includes/prescription/add_prescription.php:46
+#: template/ambulance.php:257
+#: template/appointment.php:217
+#: template/appointment.php:220
+#: template/bedallotment.php:209
+#: template/diagnosis.php:190
+#: template/operation.php:201
+#: template/prescription.php:219
+#: template/invoice.php:328
+#: template/invoice.php:514
+msgid "Select Patient"
+msgstr ""
+
+#: admin/includes/ambulance/add-ambulance-req.php:92
+#: template/ambulance.php:281
+msgid "Request Date"
+msgstr ""
+
+#: admin/includes/ambulance/add-ambulance-req.php:98
+msgid "select Request Time"
+msgstr ""
+
+#: admin/includes/ambulance/add-ambulance-req.php:110
+#: template/ambulance.php:299
+msgid "Save Request"
+msgstr ""
+
+#: admin/includes/appointment/index.php:80
+#: template/appointment.php:91
+msgid "Appointment List"
+msgstr ""
+
+#: admin/includes/appointment/index.php:84
+#: template/appointment.php:98
+msgid "Edit Appointment"
+msgstr ""
+
+#: admin/includes/appointment/index.php:90
+msgid "Add New Appointment"
+msgstr ""
+
+#: admin/includes/appointment/add-appointment.php:79
+#: admin/includes/appointment/add-appointment.php:86
+#: admin/includes/OT/add-opration.php:111
+#: admin/includes/outpatient/add_out_patient.php:157
+#: admin/includes/patient/add_patient_step3.php:90
+#: template/appointment.php:255
+#: template/appointment.php:263
+#: template/operation.php:294
+#: template/outpatient.php:412
+#: template/patient.php:786
+msgid "Select Doctor"
+msgstr ""
+
+#: admin/includes/appointment/add-appointment.php:104
+#: template/appointment.php:288
+msgid "Save Appointment"
+msgstr ""
+
+#: admin/includes/appointment/add-appointment.php:104
+#: template/appointment.php:100
+msgid "Add Appointment"
+msgstr ""
+
+#: admin/includes/bed/index.php:103
+msgid "Add New Bed"
+msgstr ""
+
+#: admin/includes/bed/index.php:123
+#: admin/includes/bed/index.php:132
+#: admin/includes/bed/add-bed.php:48
+#: admin/includes/bed-allotment/index.php:107
+#: admin/includes/bed-allotment/index.php:118
+#: admin/includes/OT/add-opration.php:183
+#: template/operation.php:329
+#: template/report.php:19
+#: admin/includes/report/index.php:19
+#: template/bedallotment.php:103
+#: template/bedallotment.php:113
+#: template/bedallotment.php:272
+#: admin/includes/bed-allotment/bed-allotment.php:80
+#: admin/includes/OT/add-opration.php:74
+#: admin/includes/bed-allotment/bed-allotment.php:115
+msgid "Bed Number"
+msgstr ""
+
+#: admin/includes/bed/index.php:124
+#: admin/includes/bed/index.php:133
+#: admin/includes/bed-allotment/bed-allotment.php:99
+#: template/bedallotment.php:256
+#: template/bedallotment.php:102
+#: template/bedallotment.php:112
+msgid "Bed Type"
+msgstr ""
+
+#: admin/includes/bed/index.php:126
+#: admin/includes/bed/index.php:135
+#: admin/includes/bed/add-bed.php:63
+#: admin/includes/bed-allotment/bed-allotment.php:196
+#: admin/includes/diagnosis/index.php:122
+#: admin/includes/diagnosis/index.php:132
+#: admin/includes/diagnosis/add_diagnosis.php:120
+#: admin/includes/medicine/add_medicine.php:77
+#: admin/includes/message/inbox.php:40
+#: admin/includes/message/sendbox.php:39
+#: admin/includes/OT/add-opration.php:220
+#: template/bedallotment.php:353
+#: template/diagnosis.php:106
+#: template/diagnosis.php:116
+#: template/diagnosis.php:255
+#: template/medicine.php:238
+#: template/operation.php:375
+#: template/message/inbox.php:41
+#: template/message/sendbox.php:41
+msgid "Description"
+msgstr ""
+
+#: admin/includes/bed/add-bed.php:21
+#: admin/includes/bed/add-bed.php:31
+#: admin/includes/OT/add-opration.php:167
+#: template/operation.php:323
+msgid "Select Bed Category"
+msgstr ""
+
+#: admin/includes/bed/add-bed.php:45
+#: admin/includes/diagnosis/add_diagnosis.php:101
+#: admin/includes/doctor/add_doctor.php:97
+#: admin/includes/doctor/add_doctor.php:121
+#: admin/includes/medicine/add_medicine.php:59
+#: admin/includes/nurse/add_nurse.php:84
+#: admin/includes/OT/add-opration.php:107
+#: template/diagnosis.php:236
+#: template/medicine.php:220
+#: template/operation.php:263
+#: admin/includes/receptionist/add_receptionist.php:94
+msgid "Add Or Remove"
+msgstr ""
+
+#: admin/includes/bed/add-bed.php:70
+msgid "Save Bed"
+msgstr ""
+
+#: admin/includes/bed/add-bed.php:70
+#: admin/admin.php:30
+msgid "Add Bed"
+msgstr ""
+
+#: admin/includes/bed-allotment/index.php:79
+msgid "Assigned Bed List"
+msgstr ""
+
+#: admin/includes/bed-allotment/index.php:83
+msgid "Edit Assigned Bed"
+msgstr ""
+
+#: admin/includes/bed-allotment/index.php:89
+#: template/bedallotment.php:86
+msgid "Assign Bed"
+msgstr ""
+
+#: admin/includes/bed-allotment/index.php:110
+#: admin/includes/bed-allotment/index.php:121
+#: admin/includes/bed-allotment/bed-allotment.php:138
+#: template/bedallotment.php:295
+msgid "Allotment Date"
+msgstr ""
+
+#: admin/includes/bed-allotment/index.php:111
+#: admin/includes/bed-allotment/index.php:122
+#: admin/includes/bed-allotment/bed-allotment.php:144
+#: template/bedallotment.php:301
+msgid "Discharge Date"
+msgstr ""
+
+#: admin/includes/bed-allotment/bed-allotment.php:71
+#: admin/includes/OT/add-opration.php:68
+#: admin/includes/patient/add_patient_step3.php:73
+#: template/bedallotment.php:231
+#: template/operation.php:224
+#: template/patient.php:769
+msgid "Patient Status"
+msgstr ""
+
+#: admin/includes/bed-allotment/bed-allotment.php:89
+#: template/bedallotment.php:246
+msgid "Select Bed Type"
+msgstr ""
+
+#: admin/includes/bed-allotment/bed-allotment.php:118
+#: admin/includes/OT/add-opration.php:187
+#: template/bedallotment.php:275
+msgid "Select Bed Number"
+msgstr ""
+
+#: admin/includes/bed-allotment/bed-allotment.php:150
+#: template/bedallotment.php:307
+msgid "Select Nurse"
+msgstr ""
+
+#: admin/includes/bed-allotment/bed-allotment.php:203
+#: template/bedallotment.php:360
+msgid "Submit"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:121
+#: template/bloodbank.php:130
+msgid "Blood Manage"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:125
+#: template/bloodbank.php:137
+msgid "Edit Blood Group"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:130
+#: admin/includes/blood-bank/add-blood-group.php:70
+#: template/bloodbank.php:142
+#: template/bloodbank.php:243
+msgid "Add Blood Group"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:133
+#: template/bloodbank.php:149
+msgid "Blood Donor List"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:138
+#: template/bloodbank.php:156
+msgid "Edit Blood Donor"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:145
+#: template/bloodbank.php:161
+msgid "Add Blood Donor"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:160
+#: admin/includes/blood-bank/index.php:167
+#: admin/includes/blood-bank/add-blood-donor.php:77
+#: admin/includes/blood-bank/add-blood-group.php:51
+#: admin/includes/blood-bank/blood-donor-list.php:31
+#: admin/includes/outpatient/index.php:170
+#: admin/includes/outpatient/index.php:181
+#: admin/includes/outpatient/add_out_patient.php:101
+#: admin/includes/patient/index.php:193
+#: admin/includes/patient/index.php:205
+#: admin/includes/patient/add_patient.php:94
+#: template/bloodbank.php:175
+#: template/bloodbank.php:184
+#: template/bloodbank.php:231
+#: template/bloodbank.php:301
+#: template/bloodbank.php:338
+#: template/bloodbank.php:350
+#: template/outpatient.php:207
+#: template/outpatient.php:218
+#: template/patient.php:242
+#: template/patient.php:253
+#: template/patient.php:377
+msgid "Blood Group"
+msgstr ""
+
+#: admin/includes/blood-bank/index.php:161
+#: admin/includes/blood-bank/index.php:168
+#: admin/includes/blood-bank/add-blood-group.php:64
+#: template/bloodbank.php:176
+#: template/bloodbank.php:185
+#: template/bloodbank.php:237
+msgid "No of Bags"
+msgstr ""
+
+#: admin/includes/blood-bank/add-blood-donor.php:39
+#: template/bloodbank.php:263
+msgid "Full Name"
+msgstr ""
+
+#: admin/includes/blood-bank/add-blood-donor.php:57
+#: admin/includes/blood-bank/index.php:162
+#: admin/includes/blood-bank/index.php:169
+#: template/bloodbank.php:281
+#: template/bloodbank.php:239
+#: template/bloodbank.php:251
+msgid "Age"
+msgstr ""
+
+#: admin/includes/blood-bank/add-blood-donor.php:81
+#: admin/includes/blood-bank/add-blood-group.php:55
+#: admin/includes/outpatient/add_out_patient.php:105
+#: admin/includes/patient/add_patient.php:98
+#: template/bloodbank.php:305
+#: template/outpatient.php:360
+#: template/patient.php:381
+msgid "Select Blood Group"
+msgstr ""
+
+#: admin/includes/blood-bank/add-blood-donor.php:90
+#: admin/includes/blood-bank/blood-donor-list.php:23
+#: admin/includes/blood-bank/blood-donor-list.php:33
+#: template/bloodbank.php:314
+#: template/bloodbank.php:341
+#: template/bloodbank.php:353
+msgid "Last Donation Date"
+msgstr ""
+
+#: admin/includes/blood-bank/add-blood-donor.php:98
+#: template/bloodbank.php:322
+msgid "Add Donor"
+msgstr ""
+
+#: admin/includes/diagnosis/index.php:91
+#: template/diagnosis.php:78
+msgid "Diagnosis Report List"
+msgstr ""
+
+#: admin/includes/diagnosis/index.php:96
+#: template/diagnosis.php:85
+msgid "Edit Diagnosis Report"
+msgstr ""
+
+#: admin/includes/diagnosis/index.php:102
+#: template/diagnosis.php:90
+msgid "Add Diagnosis Report"
+msgstr ""
+
+#: admin/includes/diagnosis/index.php:120
+#: admin/includes/diagnosis/index.php:130
+#: template/diagnosis.php:104
+#: template/diagnosis.php:114
+msgid "Patient ID-Name"
+msgstr ""
+
+#: admin/includes/diagnosis/add_diagnosis.php:82
+#: template/diagnosis.php:217
+msgid "Select Report"
+msgstr ""
+
+#: admin/includes/diagnosis/add_diagnosis.php:104
+#: template/diagnosis.php:239
+msgid "Document"
+msgstr ""
+
+#: admin/includes/diagnosis/add_diagnosis.php:126
+#: template/diagnosis.php:261
+msgid "Save Diagnosis Report"
+msgstr ""
+
+#: admin/includes/diagnosis/add_diagnosis.php:126
+#: template/diagnosis.php:261
+msgid "Create Diagnosis Report"
+msgstr ""
+
+#: admin/includes/doctor/index.php:156
+msgid "Doctor List"
+msgstr ""
+
+#: admin/includes/doctor/index.php:161
+msgid "Edit Doctor"
+msgstr ""
+
+#: admin/includes/doctor/index.php:167
+msgid "Add New Doctor"
+msgstr ""
+
+#: admin/includes/doctor/index.php:185
+#: admin/includes/doctor/index.php:197
+#: template/doctor.php:43
+#: template/doctor.php:54
+msgid "doctor Name"
+msgstr ""
+
+#: admin/includes/doctor/index.php:189
+#: admin/includes/doctor/index.php:201
+msgid "Doctor Email"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:84
+#: admin/includes/nurse/add_nurse.php:81
+#: template/account.php:254
+#: admin/includes/receptionist/add_receptionist.php:81
+msgid "select Department"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:109
+#: template/account.php:276
+msgid "Select Specialization"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:131
+msgid "Home Visiting Charge"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:269
+#: admin/includes/doctor/add_doctor.php:277
+msgid "Curriculum Vitae"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:273
+#: admin/includes/doctor/add_doctor.php:287
+#: admin/includes/doctor/add_doctor.php:301
+msgid "Upload document in PDF"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:283
+#: admin/includes/doctor/add_doctor.php:291
+msgid "Education Certificate"
+msgstr ""
+
+#: admin/includes/doctor/add_doctor.php:297
+#: admin/includes/doctor/add_doctor.php:305
+msgid "Experience Certificate"
+msgstr ""
+
+#: admin/includes/event/index.php:111
+#: template/event.php:108
+msgid "Event List"
+msgstr ""
+
+#: admin/includes/event/index.php:121
+#: admin/includes/event/add-event.php:99
+msgid "Add Event"
+msgstr ""
+
+#: admin/includes/event/index.php:138
+#: admin/includes/event/index.php:149
+msgid "Type"
+msgstr ""
+
+#: admin/includes/event/index.php:139
+#: admin/includes/event/index.php:150
+#: template/event.php:128
+#: template/event.php:138
+msgid "For"
+msgstr ""
+
+#: admin/includes/event/add-event.php:25
+msgid "Event/Notice"
+msgstr ""
+
+#: admin/includes/event/add-event.php:28
+msgid "Select Type"
+msgstr ""
+
+#: admin/includes/event/add-event.php:36
+msgid "Event Title"
+msgstr ""
+
+#: admin/includes/event/add-event.php:43
+msgid "Event Comment"
+msgstr ""
+
+#: admin/includes/event/add-event.php:50
+msgid "Event Start Date"
+msgstr ""
+
+#: admin/includes/event/add-event.php:57
+msgid "Event End Date"
+msgstr ""
+
+#: admin/includes/event/add-event.php:64
+msgid "Event For"
+msgstr ""
+
+#: admin/includes/event/add-event.php:67
+msgid "Select Role"
+msgstr ""
+
+#: admin/includes/event/add-event.php:73
+#: admin/includes/event/add-event.php:84
+msgid "All"
+msgstr ""
+
+#: admin/includes/event/add-event.php:99
+msgid "Save Event"
+msgstr ""
+
+#: admin/includes/invoice/index.php:159
+#: template/invoice.php:175
+msgid "Invoice List"
+msgstr ""
+
+#: admin/includes/invoice/index.php:164
+#: template/invoice.php:182
+msgid "Edit Invoice"
+msgstr ""
+
+#: admin/includes/invoice/index.php:170
+msgid "Add Invoice"
+msgstr ""
+
+#: admin/includes/invoice/index.php:173
+#: template/invoice.php:193
+msgid "Income List"
+msgstr ""
+
+#: admin/includes/invoice/index.php:177
+#: template/invoice.php:200
+msgid "Edit Income"
+msgstr ""
+
+#: admin/includes/invoice/index.php:183
+#: template/invoice.php:205
+msgid "Add Income"
+msgstr ""
+
+#: admin/includes/invoice/index.php:186
+#: template/invoice.php:211
+msgid "Expense List"
+msgstr ""
+
+#: admin/includes/invoice/index.php:190
+#: template/invoice.php:218
+msgid "Edit Expense"
+msgstr ""
+
+#: admin/includes/invoice/index.php:196
+#: template/invoice.php:223
+msgid "Add Expense"
+msgstr ""
+
+#: admin/includes/invoice/index.php:246
+msgid "View Invoice"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:49
+#: admin/includes/invoice/expense-list.php:22
+#: admin/includes/invoice/expense-list.php:30
+#: template/invoice.php:670
+#: template/invoice.php:679
+#: template/invoice.php:745
+msgid "Supplier Name"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:59
+#: admin/includes/invoice/add_income.php:77
+#: admin/includes/invoice/add_invoice.php:102
+#: template/invoice.php:367
+#: template/invoice.php:537
+#: template/invoice.php:758
+msgid "Paid"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:61
+#: admin/includes/invoice/add_income.php:79
+#: admin/includes/invoice/add_invoice.php:104
+#: template/invoice.php:369
+#: template/invoice.php:539
+#: template/invoice.php:760
+msgid "Part Paid"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:63
+#: admin/includes/invoice/add_income.php:80
+#: admin/includes/invoice/add_invoice.php:106
+#: template/invoice.php:371
+#: template/invoice.php:541
+#: template/invoice.php:762
+msgid "Unpaid"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:96
+#: admin/includes/invoice/add_expense.php:118
+#: template/invoice.php:795
+#: template/invoice.php:817	
+msgid "Expense Entry"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:141
+#: admin/includes/invoice/add_income.php:158
+#: template/invoice.php:617
+msgid "Add Income Entry"
+msgstr ""
+
+#: admin/includes/invoice/add_expense.php:147
+#: template/invoice.php:845
+msgid "Save Expense"
+msgstr ""
+
+#: admin/includes/invoice/add_income.php:114
+#: admin/includes/invoice/add_income.php:136
+#: template/invoice.php:574
+#: template/invoice.php:595
+msgid "Income Entry"
+msgstr ""
+
+#: admin/includes/invoice/add_income.php:164
+#: template/invoice.php:623
+msgid "Save Income"
+msgstr ""
+
+#: admin/includes/invoice/add_income.php:164
+#: template/invoice.php:623
+msgid "Create Income Entry"
+msgstr ""
+
+#: admin/includes/invoice/add_invoice.php:45
+msgid "Invoice ID"
+msgstr ""
+
+#: admin/includes/invoice/add_invoice.php:51
+#: template/invoice.php:316
+msgid "Invoice Title"
+msgstr ""
+
+#: admin/includes/invoice/add_invoice.php:80
+#: template/invoice.php:345
+msgid "Total Amount"
+msgstr ""
+
+#: admin/includes/invoice/add_invoice.php:119
+#: template/invoice.php:384
+msgid "Save Invoice"
+msgstr ""
+
+#: admin/includes/invoice/add_invoice.php:119
+#: template/invoice.php:384
+msgid "Create invoice Entry"
+msgstr ""
+
+#: admin/includes/invoice/expense-list.php:23
+#: admin/includes/invoice/expense-list.php:31
+#: admin/includes/invoice/income-list.php:23
+#: admin/includes/invoice/income-list.php:32
+#: template/invoice.php:819
+#: template/invoice.php:433
+#: template/invoice.php:443
+#: template/invoice.php:671
+#: template/invoice.php:680
+msgid "Amount"
+msgstr ""
+
+#: admin/includes/invoice/expense-list.php:55
+msgid "View Expense"
+msgstr ""
+
+#: admin/includes/invoice/income-list.php:22
+#: admin/includes/invoice/income-list.php:31
+#: admin/includes/outpatient/add_out_patient.php:55
+#: admin/includes/patient/add_patient.php:48
+#: admin/includes/patient/add_patient_step2.php:91
+#: admin/includes/patient/add_patient_step3.php:49
+msgid "Patient Id"
+msgstr ""
+
+#: admin/includes/invoice/income-list.php:23
+#: admin/includes/invoice/income-list.php:32
+#: admin/includes/patient/index.php:190
+#: admin/includes/patient/index.php:202
+#: template/patient.php:238
+#: template/patient.php:249
+#: template/invoice.php:432
+#: template/invoice.php:442
+msgid "Patient Name"
+msgstr ""
+
+#: admin/includes/invoice/income-list.php:58
+msgid "View Income"
+msgstr ""
+
+#: admin/includes/laboratorist/index.php:99
+msgid "laboratorist List"
+msgstr ""
+
+#: admin/includes/laboratorist/index.php:104
+msgid "Edit Laboratory Staff"
+msgstr ""
+
+#: admin/includes/laboratorist/index.php:110
+msgid "Add New Laboratory Staff"
+msgstr ""
+
+#: admin/includes/laboratorist/index.php:128
+#: admin/includes/laboratorist/index.php:137
+msgid "Laboratory Staff Name"
+msgstr ""
+
+#: admin/includes/laboratorist/index.php:129
+#: admin/includes/laboratorist/index.php:138
+msgid "Laboratory Staff Email"
+msgstr ""
+
+#: admin/includes/medicine/index.php:35
+msgid "Medicine Category Insert Successfully."
+msgstr ""
+
+#: admin/includes/medicine/index.php:115
+#: template/medicine.php:108
+msgid "Edit Medicine"
+msgstr ""
+
+#: admin/includes/medicine/index.php:121
+msgid "Add New Medicine"
+msgstr ""
+
+#: admin/includes/medicine/index.php:137
+#: admin/includes/medicine/index.php:146
+#: admin/includes/medicine/add_medicine.php:27
+#: template/medicine.php:121
+#: template/medicine.php:130
+#: template/medicine.php:188
+msgid "Medicine Name"
+msgstr ""
+
+#: admin/includes/medicine/index.php:138
+#: admin/includes/medicine/index.php:147
+#: template/medicine.php:122
+#: template/medicine.php:131
+msgid "Category"
+msgstr ""
+
+#: admin/includes/medicine/index.php:140
+#: admin/includes/medicine/index.php:149
+#: template/medicine.php:124
+#: template/medicine.php:133
+msgid "Stock"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:38
+#: template/medicine.php:199
+msgid "Select Category"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:70
+#: template/medicine.php:231
+msgid "Manufactured Company Name"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:85
+#: template/medicine.php:246
+msgid "Stock Status"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:93
+#: template/medicine.php:254
+msgid "IN"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:94
+#: template/medicine.php:255
+msgid "Out"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:99
+#: template/medicine.php:260
+msgid "Save Medicine"
+msgstr ""
+
+#: admin/includes/medicine/add_medicine.php:99
+#: admin/includes/prescription/add_prescription.php:193
+#: template/medicine.php:110
+#: template/prescription.php:364
+#: template/medicine.php:260
+msgid "Add Medicine"
+msgstr ""
+
+#: admin/includes/message/index.php:29
+msgid "Message sent successfully"
+msgstr ""
+
+#: admin/includes/message/index.php:36
+msgid "Message deleted successfully"
+msgstr ""
+
+#: admin/includes/message/index.php:47
+#: admin/includes/message/index.php:57
+#: template/message.php:25
+#: template/message.php:35
+msgid "Compose"
+msgstr ""
+
+#: admin/includes/message/index.php:53
+#: admin/includes/message/index.php:66
+#: template/message.php:31
+#: template/message.php:46
+msgid "Inbox"
+msgstr ""
+
+#: admin/includes/message/index.php:55
+#: template/message.php:33
+msgid "Sent Item"
+msgstr ""
+
+#: admin/includes/message/index.php:67
+#: template/message.php:47
+msgid "Sent"
+msgstr ""
+
+#: admin/includes/message/composemail.php:16
+#: template/message/composemail.php:16
+msgid "Edit Message"
+msgstr ""
+
+#: admin/includes/message/composemail.php:30
+#: template/message/composemail.php:30
+msgid "Message To"
+msgstr ""
+
+#: admin/includes/message/composemail.php:45
+#: admin/includes/message/inbox.php:38
+#: admin/includes/message/sendbox.php:37
+#: admin/includes/message/view_message.php:34
+#: admin/includes/receptionist/index.php:116
+#: template/message/composemail.php:43
+#: template/message/inbox.php:39
+#: template/message/sendbox.php:39
+#: template/message/view_message.php:33
+msgid "Subject"
+msgstr ""
+
+#: admin/includes/message/composemail.php:51
+#: template/message/composemail.php:49
+msgid "Message Comment"
+msgstr ""
+
+#: admin/includes/message/composemail.php:59
+#: template/message/composemail.php:57
+msgid "Save Message"
+msgstr ""
+
+#: admin/includes/message/composemail.php:59
+#: template/message/composemail.php:57
+msgid "Send Message"
+msgstr ""
+
+#: admin/includes/message/inbox.php:36
+#: admin/includes/message/sendbox.php:35
+#: template/message/inbox.php:37
+#: template/message/sendbox.php:37
+msgid "Message For"
+msgstr ""
+
+#: admin/includes/nurse/index.php:114
+#: template/nurse.php:13
+msgid "Nurse List"
+msgstr ""
+
+#: admin/includes/nurse/index.php:119
+msgid "Edit nurse"
+msgstr ""
+
+#: admin/includes/nurse/index.php:125
+msgid "Add New Nurse"
+msgstr ""
+
+#: admin/includes/nurse/index.php:140
+#: admin/includes/nurse/index.php:150
+#: template/nurse.php:29
+#: template/nurse.php:37
+msgid "Nurse Name"
+msgstr ""
+
+#: admin/includes/nurse/index.php:142
+#: admin/includes/nurse/index.php:152
+#: template/nurse.php:32
+#: template/nurse.php:42
+msgid "Nurse Email"
+msgstr ""
+
+#: admin/includes/OT/index.php:94
+#: admin/admin.php:32
+#: template/operation.php:87
+msgid "Operation List"
+msgstr ""
+
+#: admin/includes/OT/index.php:97
+#: template/operation.php:94
+msgid "Edit Operation List"
+msgstr ""
+
+#: admin/includes/OT/index.php:104
+#: template/operation.php:388
+#: template/operation.php:99
+#: admin/includes/OT/add-opration.php:233
+msgid "Add Operation"
+msgstr ""
+
+#: admin/includes/OT/index.php:118
+#: admin/includes/OT/index.php:128
+#: template/operation.php:116
+#: template/operation.php:126
+msgid "Operation Name"
+msgstr ""
+
+#: admin/includes/OT/index.php:120
+#: admin/includes/OT/index.php:130
+#: template/operation.php:118
+#: template/operation.php:128
+msgid "Surgeon"
+msgstr ""
+
+#: admin/includes/OT/index.php:122
+#: admin/includes/OT/index.php:132
+#: admin/includes/OT/add-opration.php:226
+#: template/operation.php:120
+#: template/operation.php:130
+msgid "operation Charge"
+msgstr ""
+
+#: admin/includes/OT/add-opration.php:88
+#: template/operation.php:244
+msgid "Select Operation"
+msgstr ""
+
+#: admin/includes/OT/add-opration.php:205
+#: template/operation.php:361
+msgid "Operation Date"
+msgstr ""
+
+#: admin/includes/OT/add-opration.php:211
+#: template/operation.php:367
+msgid "Operation Time"
+msgstr ""
+
+#: admin/includes/OT/add-opration.php:233
+#: template/operation.php:388
+msgid "Save Operation"
+msgstr ""
+
+#: admin/includes/outpatient/index.php:139
+msgid "Outpatient List"
+msgstr ""
+
+#: admin/includes/outpatient/index.php:145
+msgid "Edit Outpatient"
+msgstr ""
+
+#: admin/includes/outpatient/index.php:151
+msgid "Add New Outpatient"
+msgstr ""
+
+#: admin/includes/outpatient/index.php:167
+#: admin/includes/outpatient/index.php:178
+#: admin/includes/patient/index.php:189
+#: admin/includes/patient/index.php:201
+msgid "patient Number"
+msgstr ""
+
+#: admin/includes/outpatient/index.php:216
+#: admin/includes/patient/index.php:240
+#: template/outpatient.php:253
+#: template/patient.php:278
+msgid "View Detail"
+msgstr ""
+
+#: admin/includes/outpatient/add_out_patient.php:122
+#: admin/includes/patient/add_patient_step3.php:105
+#: template/outpatient.php:377
+#: template/patient.php:801
+msgid "Symptoms"
+msgstr ""
+
+#: admin/includes/outpatient/add_out_patient.php:152
+#: admin/includes/patient/add_patient_step3.php:86
+#: template/outpatient.php:407
+#: template/patient.php:782
+msgid "Assign Doctor"
+msgstr ""
+
+#: admin/includes/outpatient/add_out_patient.php:277
+#: admin/includes/patient/add_patient_step3.php:115
+#: template/outpatient.php:536
+#: template/patient.php:811
+msgid "Save Patient"
+msgstr ""
+
+#: admin/includes/outpatient/add_out_patient.php:277
+#: template/outpatient.php:183
+#: template/patient.php:197
+#: template/outpatient.php:536
+msgid "Add Patient"
+msgstr ""
+
+#: admin/includes/patient/index.php:149
+#: template/outpatient.php:170
+#: template/patient.php:184
+msgid "Patient List"
+msgstr ""
+
+#: admin/includes/patient/index.php:154
+#: template/outpatient.php:178
+#: template/patient.php:192
+msgid "Edit Patient"
+msgstr ""
+
+#: admin/includes/patient/index.php:157
+#: template/patient.php:205
+msgid "Edit Patient Step-2"
+msgstr ""
+
+#: admin/includes/patient/index.php:159
+#: template/patient.php:218
+msgid "Edit Patient Step-3"
+msgstr ""
+
+#: admin/includes/patient/index.php:165
+msgid "Add New Patient"
+msgstr ""
+
+#: admin/includes/patient/index.php:167
+#: template/patient.php:210
+msgid "Add New Patient Step-2"
+msgstr ""
+
+#: admin/includes/patient/index.php:169
+#: template/patient.php:223
+msgid "Add New Patient Step-3"
+msgstr ""
+
+#: admin/includes/patient/add_patient.php:212
+#: admin/includes/patient/add_patient_step2.php:219
+#: template/patient.php:497
+#: template/patient.php:707
+msgid "Save And Next Step"
+msgstr ""
+
+#: admin/includes/patient/add_patient_step2.php:83
+#: template/patient.php:574
+msgid "Guardian Id"
+msgstr ""
+
+#: admin/includes/patient/add_patient_step2.php:169
+#: template/patient.php:659
+msgid "Relation With Patient"
+msgstr ""
+
+#: admin/includes/patient/add_patient_step2.php:217
+#: admin/includes/patient/add_patient_step3.php:114
+#: template/patient.php:705
+#: template/patient.php:810
+msgid "Back To Last Step"
+msgstr ""
+
+#: admin/includes/patient/add_patient_step3.php:59
+#: template/patient.php:757
+msgid "Admit Date"
+msgstr ""
+
+#: admin/includes/patient/add_patient_step3.php:65
+#: template/patient.php:763
+msgid "Admit Time"
+msgstr ""
+
+#: admin/includes/pharmacist/index.php:97
+#: template/pharmacist.php:27
+msgid "Pharmacist List"
+msgstr ""
+
+#: admin/includes/pharmacist/index.php:102
+msgid "Edit pharmacist"
+msgstr ""
+
+#: admin/includes/pharmacist/index.php:108
+msgid "Add New pharmacist"
+msgstr ""
+
+#: admin/includes/pharmacist/index.php:123
+#: admin/includes/pharmacist/index.php:132
+msgid "Pharmacist Name"
+msgstr ""
+
+#: admin/includes/pharmacist/index.php:125
+#: admin/includes/pharmacist/index.php:134
+msgid "Pharmacist Email"
+msgstr ""
+
+#: admin/includes/prescription/index.php:97
+#: template/prescription.php:85
+#: admin/includes/prescription/index.php:97
+msgid "Prescription List"
+msgstr ""
+
+#: admin/includes/prescription/index.php:102
+#: template/prescription.php:94
+#: admin/includes/prescription/index.php:107
+msgid "Edit Prescription"
+msgstr ""
+
+#: admin/includes/prescription/index.php:108
+#: template/prescription.php:96
+#: admin/includes/prescription/index.php:108
+msgid "Add Prescription"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:72
+#: template/prescription.php:245
+msgid "select Treatment"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:107
+#: admin/includes/prescription/add_prescription.php:150
+#: template/prescription.php:280
+#: template/prescription.php:322
+msgid "Medication"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:137
+#: admin/includes/prescription/add_prescription.php:180
+#: template/prescription.php:390
+#: template/prescription.php:351
+msgid "Total Days"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:153
+msgid "Select medicine"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:169
+#: template/prescription.php:340
+msgid "Time AS Day"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:198
+#: template/prescription.php:369
+msgid "Note"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:204
+#: template/prescription.php:375
+msgid "Save Prescription"
+msgstr ""
+
+#: admin/includes/prescription/add_prescription.php:204
+#: template/prescription.php:375
+msgid "Create Prescription"
+msgstr ""
+
+#: admin/admin.php:15
+msgid "Hospital Management"
+msgstr ""
+
+#: admin/admin.php:19
+msgid "Inpatient"
+msgstr ""
+
+#: admin/admin.php:31
+msgid "Assign Bed-Nurse"
+msgstr ""
+
+#: template/account.php:135
+msgid "Account Settings"
+msgstr ""
+
+#: template/account.php:180
+msgid "Current Password"
+msgstr ""
+
+#: template/account.php:191
+msgid "New Password"
+msgstr ""
+
+#: template/account.php:201
+msgid "Conform Password"
+msgstr ""
+
+#: template/account.php:234
+msgid "Other Information"
+msgstr ""
+
+#: template/account.php:298
+msgid "Visting Charge"
+msgstr ""
+
+#: template/account.php:352
+msgid "Office Address"
+msgstr ""
+
+#: template/accountant.php:46
+#: template/accountant.php:57
+#: template/laboratorystaff.php:45
+#: template/laboratorystaff.php:54
+#: template/nurse.php:40
+#: template/nurse.php:31
+#: template/pharmacist.php:45
+#: template/pharmacist.php:54
+#: template/supportstaff.php:45
+#: template/supportstaff.php:54
+#: admin/includes/receptionist/index.php:148
+#: admin/includes/receptionist/index.php:159
+msgid "Mobile No"
+msgstr ""
+
+#: template/ambulance.php:125
+msgid "Request List"
+msgstr ""
+
+#: template/ambulance.php:133
+msgid "Edit Request"
+msgstr ""
+
+#: template/ambulance.php:135
+msgid "Add Request"
+msgstr ""
+
+#: template/ambulance.php:287
+msgid "Request Time"
+msgstr ""
+
+#: template/bedallotment.php:81
+msgid "Bed Allotment List"
+msgstr ""
+
+#: template/bedallotment.php:105
+#: template/bedallotment.php:115
+msgid "Allotment Time"
+msgstr ""
+
+#: template/bedallotment.php:106
+#: template/bedallotment.php:116
+msgid "Discharge Time"
+msgstr ""
+
+#: template/bedallotment.php:237
+#: template/operation.php:230
+#: template/patient.php:773
+msgid "select Patient Status"
+msgstr ""
+
+#: template/bloodbank.php:273
+#: template/outpatient.php:340
+#: template/patient.php:361
+#: template/patient.php:615
+#: admin/includes/receptionist/add_receptionist.php:62
+msgid "male"
+msgstr ""
+
+#: template/bloodbank.php:276
+#: template/outpatient.php:343
+#: template/patient.php:364
+#: template/patient.php:618
+#: admin/includes/receptionist/add_receptionist.php:65
+msgid "female"
+msgstr ""
+
+#: template/diagnosis.php:146
+msgid "No any Report"
+msgstr ""
+
+#: template/doctor.php:47
+#: template/doctor.php:58
+msgid "doctor Email"
+msgstr ""
+
+#: template/doctor.php:93
+msgid "View Profile"
+msgstr ""
+
+#: template/event.php:168
+msgid "View"
+msgstr ""
+
+#: template/laboratorystaff.php:26
+msgid "Laboratory Staff List"
+msgstr ""
+
+
+#: template/operation.php:367
+msgid "HH:MM:SS"
+msgstr ""
+
+#: template/operation.php:381
+msgid "Opearation Charge"
+msgstr ""
+
+#: template/outpatient.php:205
+#: template/outpatient.php:216
+#: template/outpatient.php:310
+#: template/patient.php:239
+#: template/patient.php:331
+#: template/invoice.php:431
+#: template/invoice.php:441
+msgid "Patient ID"
+msgstr ""
+
+#: template/prescription.php:256
+msgid "Case History"
+msgstr ""
+
+#: template/supportstaff.php:27
+#: admin/includes/receptionist/index.php:116
+msgid "Support Staff List"
+msgstr ""
+
+#: template/treatment.php:76
+#: admin/includes/treatment/index.php:83
+msgid "Treatment List"
+msgstr ""
+
+#: template/treatment.php:83
+#: admin/includes/treatment/index.php:88
+msgid "Edit Treatment"
+msgstr ""
+
+#: template/treatment.php:88
+#: template/treatment.php:183
+#: admin/includes/treatment/add_treatment.php:40
+msgid "Add Treatment"
+msgstr ""
+
+#: admin/includes/treatment/index.php:94
+msgid "Add New Treatment"
+msgstr ""
+
+#: template/treatment.php:105
+#: template/treatment.php:112
+#: template/treatment.php:169
+#: admin/includes/treatment/index.php:112
+#: admin/includes/treatment/index.php:120
+#: admin/includes/treatment/add_treatment.php:26
+msgid "Treatment Name"
+msgstr ""
+
+#: template/treatment.php:176
+#: admin/includes/treatment/add_treatment.php:26
+msgid "Treatment Price"
+msgstr ""
+
+#: template/treatment.php:183
+#: admin/includes/treatment/add_treatment.php:40
+msgid "Save Treatment"
+msgstr ""
+
+#: template/invoice.php:597
+msgid "Income Amoun"
+msgstr ""
+
+#: template/invoice.php:600
+msgid "Income Entery Label"
+msgstr ""
+
+#: template/invoice.php:822
+msgid "Expense Entery Label"
+msgstr ""
+
+#: template/invoice.php:839
+msgid "Add Expense Entry"
+msgstr ""
+
+#: template/invoice.php:845
+msgid "Create Expense Entry"
+msgstr ""
+
+#: template/report.php:19
+#: admin/includes/report/index.php:19
+msgid "Bed Count"
+msgstr ""
+
+#: template/report.php:27
+#: admin/includes/report/index.php:27
+#: admin/includes/report/index.php:158
+msgid "Bed Occupancy Report"
+msgstr ""
+
+#: template/report.php:50
+#: admin/includes/report/index.php:50
+msgid "Number Of Operation"
+msgstr ""
+
+#: template/report.php:72
+#: admin/includes/report/index.php:72
+msgid "No of Operation"
+msgstr ""
+
+#: template/report.php:99
+#: admin/includes/report/index.php:99
+msgid "Number Of Fail Operation"
+msgstr ""
+
+#: template/report.php:107
+#: template/report.php:163
+#: admin/includes/report/index.php:107
+#: admin/includes/report/index.php:1
+msgid "Operation Fail Report"
+msgstr ""
+
+#: template/report.php:121
+#: admin/includes/report/index.php:121
+msgid "No of Fail Operation"
+msgstr ""
+
+#: template/report.php:153
+msgid "Bed Occupation Report"
+msgstr ""
+
+#: template/report.php:200
+#: admin/includes/report/index.php:193
+msgid "Go"
+msgstr ""
+
+#: template/report.php:214
+#: admin/includes/report/index.php:208
+msgid "There is not enough data to generate report."
+msgstr ""
+
+#: template/message.php:12
+msgid "Message Sent Successfully"
+msgstr ""
+
+#: admin/includes/receptionist/index.php:121
+msgid "Edit Support Staff"
+msgstr ""
+
+#: admin/includes/receptionist/index.php:127
+msgid "Add New Support Staff"
+msgstr ""
+

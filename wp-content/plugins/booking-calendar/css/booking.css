@@ -1,0 +1,336 @@
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rotate {
+    to   {-webkit-transform: rotate(360deg);}
+    from  {-webkit-transform: rotate(0deg);}
+}
+
+/* Standard syntax */
+@keyframes rotate {
+    to   {transform: rotate(360deg);}
+    from  {transform: rotate(0deg);}
+}
+.wpdevart-calendar-container > div{
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+	float:left;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	width:14.285714%;
+}
+.wpdevart-day .day-price {
+    font-size: 12px;
+    padding: 0 2px;
+	color: #6B6B6B;
+}
+.wpdevart-day span.old-price {
+    margin-left: 2px;
+    color: #949494;
+    text-decoration: line-through;
+}
+
+.wpdevart-calendar-container > div:nth-child(7n+1), .wpdevart-calendar-container > div:first-child{
+    border-left: 1px solid #ddd;
+}
+.booking_calendar_container,.wpdevart-booking-form-container{
+	width:100%;
+}
+.booking_calendar_container{
+	position:relative;
+}
+.booking_calendar_container .wpdevart-load-overlay{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,.05);
+	display:none;
+	z-index:9999;
+}
+.booking_calendar_container .wpdevart-load-image{
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-25px;
+	margin-left:-25px;
+	width:50px;
+	height:50px;
+	background:url(images/loading.png) no-repeat;
+	background-size:contain;
+	-webkit-animation: rotate 2s linear  infinite; /* Chrome, Safari, Opera */
+    animation: rotate 2s linear infinite;
+}
+.wpdevart-submit{
+    position: relative;
+    display: none;
+    background: #FD7C93;
+    color: #fff;
+    border: 0 !important;
+    padding: 5px 0px !important;
+    cursor: pointer;
+    font-size: 17px;
+    width: 230px;
+}
+.wpdevart-submit.load{
+	text-indent:-2000px;
+}
+.wpdevart-submit.load:after{
+    content: "";
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 7px;
+    left: 50%;
+    display: inline-block;
+    background: url(images/loading_button.png) no-repeat;
+    background-size: contain;
+    -webkit-animation: rotate 2s linear infinite;
+    animation: rotate 2s linear infinite;
+    margin-left: -10px;
+}
+.wpdevart-calendar-container > div:not(.week-day-name){
+	cursor:pointer;
+	min-height: 65px;
+	line-height: 1.4;
+}
+.wpdevart-calendar-container > div:nth-child(7):after{
+    content:'';
+	clear:left;
+}
+
+.wpdevart-calendar-container{
+    width: 100%;
+}
+
+.wpda-booking-calendar-head{
+	display:table;
+	width: 100%;
+    border: 1px solid #ddd;
+    border-width: 1px 1px 0 1px;
+    box-sizing: border-box;
+    padding: 10px;
+    line-height: 1;
+}
+.current-date-info,
+.wpda-previous,
+.wpda-next{
+	display:table-cell;
+}
+.current-date-info{
+	width:80%;
+	font-size: 19px;
+	text-align:center;
+}
+.wpda-previous,
+.wpda-next{
+	width:10%;
+	font-size: 15px;
+}
+.wpda-previous a,
+.wpda-next a{
+	text-decoration:none !important;
+	border:0px  !important;
+}
+
+.wpdevart-calendar-container > div.selected{
+    box-shadow:0 0 3px rgba(0, 0, 0, 0.5);
+}
+.wpdevart-calendar-container > div.selected .wpda-day-header{
+    background-color: #373740 !important;
+	color:#fff !important;
+}
+.wpdevart-calendar-container > div .wpda-day-header {
+    background-color: #E6E6E6;
+    color: #464646;
+    padding: 0px 1px 0 4px;
+    font-size: 13px;
+}
+.week-day-name .wpda-day-header {
+    padding: 5px 0 !important;
+	text-align:center;
+}
+.week-day-name .wpda-day-number {
+    width: initial;
+    float: none;
+	color: #656565;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.wpdevart-calendar-container > div.past-day {
+    background-color: #F1F3F5;
+    opacity: 0.8 !important;
+    color: #848484;
+    pointer-events: none;
+}
+.wpdevart-calendar-container > div.past-day *{
+    color: #848484;
+}
+/*      availability     */
+
+.wpdevart-calendar-container > div.wpdevart-available .wpda-day-header{
+	background: #85B70B;
+    color: #fff;
+}
+.wpdevart-calendar-container > div.wpdevart-booked .wpda-day-header{
+	background: #FD7C93;
+    color: #fff;
+}
+.wpdevart-calendar-container > div.wpdevart-unavailable,.wpdevart-legends-unavailable .legend-div{
+	opacity:0.9;
+	cursor:default;
+}
+.wpdevart-calendar-container > div.wpdevart-available{
+	opacity:1;
+	cursor:pointer;
+}
+
+.day-availability {
+    font-size: 13px;
+    color: #636363;
+    padding: 0 2px 2px;
+    font-style: italic;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*       user info             */
+.wpda-day-number {
+    width: 42px;
+    float: left;
+}
+
+button:focus{
+	outline:none;
+}
+
+.day-user-info-container {
+    float: right;
+	text-align: center;
+    font-style: italic;
+    line-height: 1;
+    width: 15px;
+    position: relative;
+    border: 1px solid #fff;
+    height: 14px;
+    margin-top: 1px;
+	margin-left: 1px;
+}
+.day-user-info {
+    position: absolute;
+    background-color: rgb(253, 253, 253);
+    min-height: 50px;
+    padding: 5px 7px;
+    color: #4E4E4E;
+    bottom: 100%;
+    right: 0;
+    display: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.52);
+    width: 200px;
+    font-size: 13px;
+    text-align: justify;
+	font-style: normal;
+	z-index: 11111;
+}
+.day-user-info-container:hover .day-user-info{
+	display:block;
+}
+
+.booking_calendar_container .error_text_container,
+.booking_calendar_container .successfully_text_container{
+	display:none;
+    border: 1px solid #C11212;
+    padding: 12px 7px;
+    margin: 10px 0;
+    color: #C11212;
+	font-size: 15px;
+    line-height: 1.3;
+}
+.booking_calendar_container .successfully_text_container{
+    border: 1px solid #7FAD16;
+    color: #7FAD16;
+	display:block;
+}
+.booking_calendar_container .notice_text_close{
+    float: right;
+    display: inline-block;
+    color: #ffffff;
+    background: #C11212;
+    line-height: 1;
+    padding: 2px 7px 5px;
+    cursor: pointer;
+}
+.booking_calendar_container .error_text{
+    float: left;
+}
+.booking_calendar_container .successfully_text_container .notice_text_close{
+    background: #7FAD16;
+}
+.wpdevart-booking-form-container{
+    margin: 25px 0;
+}
+.wpdevart-form-section,
+.wpdevart-check-section{
+	float:left;
+	width:48%;
+}
+.wpdevart-form-section{
+	margin-left:2%;
+}
+.wpdevart-booking-form h4{
+    color: #8E898A;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+h4.form_title {
+    margin: 0px 0 14px !important;
+    font-weight: normal;
+    font-style: italic;
+    color: #676363;
+}
+/*Responsive*/
+.wpdevart-responsive .day-availability{
+	line-height: 1;
+	padding:0 2px;
+}
+.wpdevart-responsive .wpdevart-day .day-price{
+	line-height: 1;
+	padding:0 2px;
+}
+.wpdevart-responsive .wpdevart-day .day-price span{
+	display:block;
+}
+.wpdevart-responsive .wpdevart-form-section, .wpdevart-responsive .wpdevart-check-section{
+	float:none;
+	width:100%;
+}
+.wpdevart-responsive .day-user-info-container{
+	/*display:none;*/
+}
+.wpdevart-responsive .wpdevart-day .day-price {
+    font-size: 11px;
+    padding: 0 1px;
+}
+.wpdevart-responsive .current-date-info {
+    width: 70%;
+}
+.wpdevart-responsive .current-date-info * {
+	font-size: 17px !important;
+}
+.wpdevart-responsive .wpda-previous,.wpdevart-responsive  .wpda-next {
+    width: 15%;
+    font-size: 13px !important;
+}
+.wpdevart-responsive .wpda-previous *,.wpdevart-responsive  .wpda-next  *{
+    font-size: 13px !important;
+}
+.wpdevart-responsive .wpda-booking-calendar-head{
+	padding: 5px 4px 6px;
+}
+.booking_calendar_container,
+.wpdevart-booking-form-container{
+	max-width: 680px;
+}

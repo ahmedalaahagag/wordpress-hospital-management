@@ -1,0 +1,73 @@
+.bootstrap-timepicker-widget.timepicker-orient-top::before {
+    top: -7px;
+}
+.bootstrap-timepicker-widget.timepicker-orient-left::before {
+    left: 6px;
+}
+.bootstrap-timepicker-widget.dropdown-menu::before {
+    border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+    border-left: 7px solid rgba(0, 0, 0, 0);
+    border-right: 7px solid rgba(0, 0, 0, 0);
+    content: "";
+    display: inline-block;
+    position: absolute;
+}
+.bootstrap-timepicker-widget table td a {
+    border: 1px solid rgba(0, 0, 0, 0);
+    color: #303641;
+    display: inline-block;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    width: 100%;
+}
+input.bootstrap-timepicker-hour,input.bootstrap-timepicker-minute {
+    border-radius: 0px !important;
+    border: 1px solid #dedede !important;
+}
+
+#calendar .fc-content {
+    background: #6AA4C1 none repeat scroll 0 0;
+    border: 0 none;
+    padding: 5px;
+}
+/********         Chart *****************/
+#chart_div{margin-top: 70px;}
+
+/**** Message ****/
+.mailbox-content .message_for{width:135px;}
+.mailbox-content .message_title{width:200px;}
+
+.profile_data {
+    height: 500px;
+    overflow: scroll;
+    float: left;
+    width: 100%;
+}
+.profile_data .profile-image {
+    margin: 100px 20px 20px;
+}
+
+.profile_data .profile-cover {
+    height: 200px;
+
+}
+.profile_data #main-wrapper{margin-top:50px;}
+
+.updated.below-h2 {
+    text-transform: capitalize;
+}
+/********messagebox css*********/
+
+.hospital-management-content  #message   {
+    background: #fff none repeat scroll 0 0;
+    border-left: 4px solid #7ad03a;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 5px 15px 9px;
+    padding: 9px 0px 1px 13px;
+}
+
+/*****/
+#main-wrapper a:focus {
+    box-shadow: none;
+}

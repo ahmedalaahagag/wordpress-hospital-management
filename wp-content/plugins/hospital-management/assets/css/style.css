@@ -1,0 +1,634 @@
+.hospital-management-content .container-fluid{background: #364150}
+
+
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before img {
+  display: none;
+}
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before {
+  min-width: 23px !important;
+}
+#wpbody-content .updated.below-h2 {
+  margin-top: 20px;
+}
+.media-modal a:hover {text-decoration: none;}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_hospital {
+    background: url("../images/hospital-3.png") no-repeat scroll 8px 9px #0073AA !important;
+}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_hospital img {
+    display: none;
+}
+
+.info-box-title {
+  text-transform: capitalize;
+}
+
+.container-fluid.mainpage {
+  padding: 0;
+}
+.page-inner {
+  margin-left: -20px;
+}
+.img-circle.head_logo {
+  margin-right: 5px;
+}
+.nav-tab-active, .nav-tab-active:hover,a.nav-tab:hover,a.nav-tab:focus {
+  background: none repeat scroll 0 0 #fff;
+  border-bottom: 0px;
+  color: #000;
+  text-decoration: none;
+}
+.wp-admin select {
+    height: 32px;
+}
+
+updated.below-h2{text-transform: capitalize;}
+//OLD CSS
+.student_name,.result_total,.result_point {
+  text-align: center; 
+}
+.student_name {
+ font-size: 20px;
+}
+.panel-body button {
+  margin-right: 5px;
+}
+.school_name {
+  background: none repeat scroll 0 0 #34425A;
+  color: #C6C9CD;
+  padding: 5px;
+}
+.hospital_left {
+  background: none repeat scroll 0 0 #364150;
+  min-height: 700px;
+}
+.right_side {
+  margin-top: 10px;
+}
+.nopadding {  
+  
+   padding-left:0 !important;
+   padding-right:0 !important;
+}
+.hospital_left .nav .title{color:#fff;}
+.hospital_left ul a:hover,.hospital_left ul li.active > a,.hospital_left  li > a:focus {background: #2C3542 !important;}
+.hospital_left ul a, {border-top: 1px solid #3d4957;
+    color: #b4bcc8;}
+    
+
+ .form-control.file {
+  border: medium none;
+  padding: 0 !important;
+}   
+.navbar a {
+  color: #5f5f5f !important;
+}
+.dropdown-menu li a {
+  padding: 7px 10px;
+  color: #5f5f5f !important;
+  font-size: 13px;
+}
+.navbar .nav li > a:hover,.navbar .nav li > a:focus {
+  background-color: inherit;
+}
+.navbar ul li ul a:hover{background-color: #F3F3F3; } 
+.navbar  a:hover{
+  text-decoration: none;
+}
+
+.account .personal-info {
+    margin-top: 15px;
+}
+.dashboard-stat {
+  height: 100px;
+  padding: 10px 5px;
+}
+.dashboard .block-orange {
+  background: #F59575;
+}
+.dashboard .icon {
+  float: left;
+  font-size: 54px;
+  margin-right: 1%;
+  width: 45%;
+}
+.dashboard .number {
+  font-size: 30px;
+}
+.dashboard .left_block {
+  float: left;
+  //width: 75%;
+}
+.form-horizontal h5 {
+    color: red;
+}
+.blue.btn {
+    background-color: #3598dc;
+    color: #ffffff;
+	border-radius:0px;
+}
+.checkbox_field  {
+    width: 10px !important;
+}
+.attendence_list th, .attendence_list td{
+	padding:10px !important;
+}
+.select_Staus {
+   
+    padding: 25px 0;
+}
+.toshow { 
+    display:none; 
+    position: absolute; 
+    background: #f00; 
+    width: 200px; 
+	
+}
+button:hover div.toshow { 
+    display:block; 
+}
+.right_part {
+    float: right;
+    margin-top: 65px;
+    width: 30%;
+}
+.calender_part{
+    width: 70%;
+}
+.seperate_part {
+    margin: 5px;
+  
+}
+.right_side {
+    margin-top: 0;
+	padding:20px;
+	min-height: 650px;
+}
+.right_side.account {
+    padding: 0;
+	
+}
+.profile-cover{
+    background: url("../images/school_life.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+}
+.file_upload{
+border:none;
+}
+
+.table-responsive th {
+  text-transform: capitalize;
+  height: 1px;
+  font: normal;
+}
+.require-field{
+color:red;
+}
+
+.info-box .info-box-stats {
+  margin-top: 0px !important;
+}
+/* .panel-body.patient {
+background: rgba(0, 0, 0, 0) url("../images/Patient.png") no-repeat scroll right center;
+}
+.panel-body.doctor{
+	
+	 background:url("../images/Doctor.png") no-repeat scroll right center;
+	
+}
+.panel-body.nurse{
+	
+ 	background:url("../images/Nurse.png") no-repeat scroll right center;
+	
+	
+}
+.panel-body.accountant{
+	
+ background:url("../images/Accountant.png") no-repeat scroll 55% 0;
+
+}
+.panel-body.receptionist {
+    background: rgba(0, 0, 0, 0) url("../images/Receptionist.png") no-repeat scroll right bottom / 100% auto;
+}
+.panel-body.pharmacist{
+	
+	 background:url("../images/Pharmacist.png");
+ background-repeat: no-repeat;
+    background-position: right center;
+  
+    background-width: 100% auto; 
+    
+}
+.panel-body.laboratorist{
+	
+	 background:url("../images/Laboratorist.png");
+ background-repeat: no-repeat; 
+    background-position: 55% 0;
+  
+    background-width: 100% auto;
+} */
+
+.info-box .info-box-icon i {
+    float: right;
+    font-size: 70px !important;
+}
+
+.button-possition  input ,button{
+    margin-top: 22px;
+}
+ .panel-body h2 {
+    margin-bottom: 10px !important;
+    margin-top: 20px !important;
+}
+
+#add-another_item{margin-left: 17%;}
+#revove_item{margin-left: 1%;}
+.marginbottom{ 
+	float: left;
+    margin-bottom: 10px;
+    width: 100%;}
+.print-button {padding-top:10px;
+margin-bottom: 10px;
+}
+table.dataTable thead th, table.dataTable thead td{padding:10px 10px;}
+/**  Fronted CSS*/
+/**   Menu icone***/
+
+.icone {
+  float: left;
+  height: 20px !important;
+  /* line-height: 0px; */
+  margin-right: 5px;
+  overflow: hidden;
+  width: 25px !important;
+  text-align: center;
+}
+.hospital-management-content .container-fluid.mainpage {
+  position: fixed;
+  width: 100%;
+    z-index: 5;
+}
+.hospital-management-content .col-sm-2.nopadding.hospital_left { 
+  width: 15%;
+  height: 100%;
+   margin-top: 70px;
+   float:left;
+  
+}
+.hospital-management-content .page-inner {
+  margin-left: 15%;
+   margin-top: 70px;
+}
+ .info-box .panel-body img{
+ 
+transition: all 0.3s ease 0s;
+}
+.page-inner .col-lg-2 a .info-box:hover .panel-body img{
+    transform: scale(1.2);
+} 
+img.dashboard_background {
+  float: left;
+  width: 100%;
+}
+.info-box .info-box-stats {
+  position: absolute;
+  left: 8%;
+  top: 15%;
+  z-index:2;
+}
+.info-box .panel-body {
+  padding: 0 !important;
+}
+.info-box .patient .info-box-stats p {
+  color: #22baa0;
+  font-size: 34px; 
+}
+.info-box .patient .info-box-stats span.info-box-title {
+  color: #22baa0; 
+}
+.info-box .doctor .info-box-stats p {
+  color: #12AFCB;
+  font-size: 34px; 
+}
+.info-box .doctor .info-box-stats span.info-box-title {
+  color: #12AFCB; 
+}
+.info-box .nurse .info-box-stats p {
+  color: #6A5FAC;
+  font-size: 34px; 
+}
+.info-box .nurse .info-box-stats span.info-box-title {
+  color: #6A5FAC; 
+}
+.info-box .accountant .info-box-stats p {
+  color: #F25656;
+  font-size: 34px; 
+}
+.info-box .accountant .info-box-stats span.info-box-title {
+  color: #F25656; 
+}
+.info-box .receptionist .info-box-stats p {
+  color: #4E5E6A;
+  font-size: 34px; 
+}
+.info-box .receptionist .info-box-stats span.info-box-title {
+  color: #4E5E6A; 
+}
+.info-box .pharmacist .info-box-stats p {
+  color: #3B5998;
+  font-size: 34px; 
+}
+.info-box .pharmacist .info-box-stats span.info-box-title {
+  color: #3B5998; 
+}
+.info-box .laboratorist .info-box-stats p {
+  color: #380000;
+  font-size: 34px; 
+}
+.info-box .laboratorist .info-box-stats span.info-box-title {
+  color: #380000; 
+}
+
+.info-box .invoice .info-box-stats p {
+  color: #660033;
+  font-size: 34px; 
+}
+.info-box .invoice .info-box-stats span.info-box-title {
+  color: #660033;
+}
+
+/* 
+.info-box .invoice {
+  background: rgba(0, 0, 0, 0) url("../images/invoice.png") no-repeat scroll right center;
+}
+.info-box .medicine   {
+
+  background:url("../images/medicine.png");
+ background-repeat: no-repeat; 
+    background-position: 55% 0;
+}
+.info-box .operation_report  {
+  
+   background:url("../images/report.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .setting  {
+ 
+  background:url("../images/setting-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .birthreport {
+    background:url("../images/birth-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .deathreport  {
+   background:url("../images/death-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .treatment  {
+ 
+  background:url("../images/tretment-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .prescription  {
+ 
+  background:url("../images/preseription-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .assignbed  {
+ 
+  background:url("../images/assign-bed-image.png");
+ background-repeat: no-repeat; 
+    background-position: right 0;
+}
+.info-box .diagnosis  {
+ 
+  background:url("../images/diagnosis-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .bloodbank  {
+ 
+  background:url("../images/blood-bank-image.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .appointment  {
+ 
+    background:url("../images/appointment-image.png") no-repeat scroll 55% 0;
+}
+.info-box .operation-list  {
+ 
+  background:url("../images/operation-report.png");
+ background-repeat: no-repeat; 
+    background-position: right center;
+}
+.info-box .eventnotice  {
+ 
+  background:url("../images/notice-event-image.png");
+ background-repeat: no-repeat; 
+    background-position: 55% 0;
+}
+.info-box .message  {
+ 
+  
+  background:url("../images/message.png");
+ background-repeat: no-repeat; 
+    background-position: 92% 0;
+} */
+.info-box .medicine .info-box-stats p {
+  color: #CC0066;
+  font-size: 34px; 
+}
+
+.info-box .medicine .info-box-stats span.info-box-title {
+  color: #CC0066;
+}
+
+.info-box .operation_report .info-box-stats p {
+  color: #330033;
+  font-size: 34px; 
+}
+
+.info-box .operation_report .info-box-stats span.info-box-title {
+  color: #330033;
+}
+
+.info-box .birthreport .info-box-stats p {
+  color: #666633;
+  font-size: 34px; 
+}
+
+.info-box .birthreport .info-box-stats span.info-box-title {
+  color: #666633;
+}
+
+.info-box .deathreport .info-box-stats p {
+  color: #CC9900;
+  font-size: 34px; 
+}
+
+.info-box .deathreport .info-box-stats span.info-box-title {
+  color: #CC9900;
+}
+.info-box .setting .info-box-stats p {
+  color: #999933;
+  font-size: 34px; 
+}
+
+.info-box .setting .info-box-stats span.info-box-title {
+  color: #999933;
+}
+.info-box .treatment .info-box-stats p {
+  color: #003333;
+  font-size: 34px; 
+}
+
+.info-box .treatment .info-box-stats span.info-box-title {
+  color: #003333;
+}
+.info-box .prescription .info-box-stats p {
+  color: #0099FF;
+  font-size: 34px; 
+}
+
+.info-box .prescription .info-box-stats span.info-box-title {
+  color: #0099FF;
+}
+.info-box .assignbed .info-box-stats p {
+  color: #996600;
+  font-size: 34px; 
+}
+
+.info-box .assignbed .info-box-stats span.info-box-title {
+  color: #996600;
+}
+.info-box .diagnosis .info-box-stats p {
+  color: #330033;
+  font-size: 34px; 
+}
+
+.info-box .diagnosis .info-box-stats span.info-box-title {
+  color: #330033;
+}
+.info-box .bloodbank .info-box-stats p {
+  color: #990000;
+  font-size: 34px; 
+}
+
+.info-box .bloodbank .info-box-stats span.info-box-title {
+  color: #990000;
+}
+.info-box .appointment .info-box-stats p {
+  color: #FF9966;
+  font-size: 34px; 
+}
+
+.info-box .appointment .info-box-stats span.info-box-title {
+  color: #FF9966;
+}
+.info-box .eventnotice .info-box-stats p {
+  color: #009933;
+  font-size: 34px; 
+}
+
+.info-box .eventnotice .info-box-stats span.info-box-title {
+  color: #009933;
+}
+
+.info-box .message .info-box-stats p {
+  color: #0066FF;
+  font-size: 34px; 
+}
+
+.info-box .message .info-box-stats span.info-box-title {
+  color: #0066FF;
+}
+
+
+
+.info-box .operation-list   .info-box-stats span.info-box-title {
+  color: #003333;
+}
+.info-box .operation-list .info-box-stats p {
+  color: #003333;
+  font-size: 34px; 
+}
+
+.nav-tab,.nav-tabs a {
+    background: none repeat scroll 0 0 #f1f4f9;
+}
+.nav-tab.nav-tab-active {
+    background: none repeat scroll 0 0 #fff;
+}
+.mainpage .navbar-right {
+ 
+  margin-right: 0px;
+}
+.mainpage .navbar-right .dropdown{float:right;}
+table.fontend-border td,
+table.fontend-border th{
+	padding:0px !important;
+}
+
+
+ul.panel_tabs li{padding-left:10px;}
+ul.panel_tabs a {
+  padding: 5px;
+}
+ul.panel_tabs a:focus,ul.panel_tabs a:hover {
+  background: #fff !important;
+ 
+}
+ul.panel_tabs a {
+  /* color: red !important; */
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/*********** Hospital CSS ********************/
+.table-responsive {
+  padding-top : 10px;
+}
+table a.btn {
+  margin-bottom: 5px;
+}
+blockquote.diagnosis-report {
+    font-size: 12.5px;
+}
+.calendar-event > p {
+    float: left;
+    width: 100%;
+}
+.profile_data hr {
+    margin-bottom: 0;
+}
+.panel-body.prescription_popprint_content {
+  margin: 25px auto;
+  width: 82%;
+}
+.overlay-content .prescription_pop_content{
+  height: 400px;
+  overflow: scroll;
+}
+.hmsg_message_none {
+    display: none;
+}
+.hmsg_message_block {
+    display: block;
+}
+.audit_button {
+  float: right;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.aduit_log_file {
+  float: left;
+  height: 700px;
+  overflow: scroll;
+  width: 100%;
+}
